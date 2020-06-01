@@ -1,0 +1,12 @@
+id=211
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. It increases cell expression of angiotensin receptors (AR’s). COVID enters cells via AR’s. Should I change my blood pressure meds? Thanks
+
+Dialogue
+Patient:
+I take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. It increases cell expression of angiotensin receptors (AR’s). COVID enters cells via AR’s. Should I change my blood pressure meds? Thanks
+Doctor:
+In brief:   Contact Dr    Rather get hold of your regular GP and discuss over the telephone regarding this issue.   DO NOT STOP OR DO THIS ON YOUR OWN.  Would you like to video or text chat with me?         
+

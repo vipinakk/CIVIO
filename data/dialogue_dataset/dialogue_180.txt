@@ -1,0 +1,12 @@
+id=179
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am a little concerned that I may be showing some symptoms for Coronavirus. I have had a bit of a dry cough about 2 weeks ago for 3 days. A week later I had a headache and got nauseaus. I never get headaches. My chest has felt unusual for 5 days.
+
+Dialogue
+Patient:
+I am a little concerned that I may be showing some symptoms for Coronavirus. I have had a bit of a dry cough about 2 weeks ago for 3 days. A week later I had a headache and got nauseaus. I never get headaches. My chest has felt unusual for 5 days.
+Doctor:
+Current symptoms? You may have experienced Coronavirus infection. Please stay at home until well and without any signs of illness. Drink fluids, rest and monitor your temperature. .
+

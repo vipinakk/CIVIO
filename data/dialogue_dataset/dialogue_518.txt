@@ -1,0 +1,12 @@
+id=517
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I’m showing signs of flu and shortness of breath over the last week. I just found out this morning that I was exposed to someone who tested positive. I need advise on how to get tested and treated (if required), beyond just self quarantining.
+
+Dialogue
+Patient:
+I’m showing signs of flu and shortness of breath over the last week. I just found out this morning that I was exposed to someone who tested positive. I need advise on how to get tested and treated (if required), beyond just self quarantining.
+Doctor:
+In brief:   Call a doctor    You may need a doctor’s order ASAP if you’ve been exposed and are symptomatic, to get tested, so call to get that order, and when you go to get tested, please try to place a mask on your face to protect others if you can  Would you like to video or text chat with me?         
+

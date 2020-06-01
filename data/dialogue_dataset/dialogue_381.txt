@@ -1,0 +1,12 @@
+id=380
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Displaying mild symptoms: Slightly sore chest Dry throat Intermittent dry cough Slight headache that comes and goes Quickly out of breath Temperature is between 37.1-37.5 at bed time the past couple of days  Don't feel really sick just slightly off?
+
+Dialogue
+Patient:
+Displaying mild symptoms: Slightly sore chest Dry throat Intermittent dry cough Slight headache that comes and goes Quickly out of breath Temperature is between 37.1-37.5 at bed time the past couple of days  Don't feel really sick just slightly off?
+Doctor:
+In brief:   Test   Your shortness of breath is concerning.   You may have an underlying condition and should also be screened for Coronavirus. Stay home, rest and drink fluids until you are seen by your physician. A chest image may be performed at the visit.  Would you like to video or text chat with me?         
+

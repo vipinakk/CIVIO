@@ -1,0 +1,12 @@
+id=521
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I think I need to be tested for covid-19?
+
+Dialogue
+Patient:
+I think I need to be tested for covid-19?
+Doctor:
+Covid 19. Dear Patient.What is your concern/ symptoms?Dr Wil.
+

@@ -1,0 +1,12 @@
+id=412
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. Any advice on what to do with this covid 19.
+
+Dialogue
+Patient:
+Last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. Any advice on what to do with this covid 19.
+Doctor:
+Covid. Follow recommendations. Flu last year and Covid this year are two separate issues. At 33 your risk of sever infection is low. Follow the guidelines for COViD. The guidelines are as follows:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide.
+

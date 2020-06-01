@@ -1,0 +1,12 @@
+id=184
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Where do genital warts come from? My partner has visible ones, however I don’t. I’m female. Could they be there internally ? What are the origins of this virus?
+
+Dialogue
+Patient:
+Where do genital warts come from? My partner has visible ones, however I don’t. I’m female. Could they be there internally ? What are the origins of this virus?
+Doctor:
+In brief:   HPV virus   Human papiloma virus.   You wont necessarily have them but you could have the virus. When last did you have a papsmear. THey can pick it up on that. Once we are out of lockdown get a papsmear.  Would you like to video or text chat with me?         
+

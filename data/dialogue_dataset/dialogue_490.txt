@@ -1,0 +1,12 @@
+id=489
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I work in an open office. Experiencing daily coughing and run a bit of a fever. Sneezing frequently. Should I get tested for Covid 9? Situated in JHB
+
+Dialogue
+Patient:
+I work in an open office. Experiencing daily coughing and run a bit of a fever. Sneezing frequently. Should I get tested for Covid 9? Situated in JHB
+Doctor:
+Maybe. Do video w/
+

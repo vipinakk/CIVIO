@@ -1,0 +1,22 @@
+id=50
+https://www.healthcaremagic.com/questions/How-can-pneumonia-be-managed/1579064
+
+Description
+How can pneumonia be managed?
+
+Dialogue
+Patient:
+I ve had symptoms of cough, headache, stuffy nose, fatigue, and sore throat for 4 days. I know these are typical of common cold. However, once before (18 months ago), when I just tried to ride it out, I developed pneumonia and was in hospital for several days. Are there any precautions I can take now to prevent this from getting complicated? Thanks.
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service. 
+I have reviewed your query and here is my advice.
+ Yes, you are right. If you don't pay attention in common cold, it can complicate as pneumonia. So follow these steps for better symptomatic relief in common cold. 
+1. Drink plenty of fluids orally and keep yourself hydrated.
+2. Do warm water gargles and steam inhalation 4-5 times a day.
+3. Avoid cold foods like ice cream, cold drinks etc.
+4. Take treatment for common cold regularly.
+5. Watch for persistent fever, chest pain, Yellowish green expectoration, breathing difficulty etc. If any of these symptom appears then immediately get done chest x ray.
+6. Avoid smoking and alcohol if you have these habits.
+ Hope I have answered your query. 
+Let me know if I can assist you further.
+

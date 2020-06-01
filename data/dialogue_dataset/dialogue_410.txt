@@ -1,0 +1,12 @@
+id=409
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a soar trought. Can I have Covid19?
+
+Dialogue
+Patient:
+I have a soar trought. Can I have Covid19?
+Doctor:
+In brief:   Possible   Top symptoms of COVID include fever, dry cough, SOB.   Sore throat is a symptom, but not as common. You are 36 and likelyhood of severe infection uncommon. Probably best to socially isolate. Other possibilities include strep, influenza or adenovirus. Follow these guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?         
+

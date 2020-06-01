@@ -1,0 +1,12 @@
+id=442
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi  I had a runny nose took some immune booster and med lemon and now it is a cough with sporadic phlegm. Should get test for this COVID 19?   I don’t have a fever. I also have a bit of short breath.
+
+Dialogue
+Patient:
+Hi  I had a runny nose took some immune booster and med lemon and now it is a cough with sporadic phlegm. Should get test for this COVID 19?   I don’t have a fever. I also have a bit of short breath.
+Doctor:
+In brief:   Test if can    don't go to a public space, consult via the telephone or get a coronavirus test   Would you like to video or text chat with me?         
+

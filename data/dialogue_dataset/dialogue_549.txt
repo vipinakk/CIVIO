@@ -1,0 +1,12 @@
+id=548
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What’s worse with the coronavirus, type 1 or type 2 diabetes?
+
+Dialogue
+Patient:
+What’s worse with the coronavirus, type 1 or type 2 diabetes?
+Doctor:
+Diabetes. My answer would be controlled or not. Type 1 or 2 if managed well and treated can still maintain good immunity. If either are out of control then infections of any type more likely. .
+

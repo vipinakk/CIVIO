@@ -1,0 +1,12 @@
+id=482
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Should I be tested for COVID 19 have been in contact with family member who arrived from France on 13 March.not showing any symptoms to date been 7days since visit ?
+
+Dialogue
+Patient:
+Should I be tested for COVID 19 have been in contact with family member who arrived from France on 13 March.not showing any symptoms to date been 7days since visit ?
+Doctor:
+In brief:   Self quarantine    Suggest self quarantine for 14 days.  If symptomatic then contact your Primary care physician telephonically, or alternatively use this platform to get tested and further management. Godspeed.  Would you like to video or text chat with me?         
+

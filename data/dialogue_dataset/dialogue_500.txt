@@ -1,0 +1,12 @@
+id=499
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Body ache and fever, scratchy itchy throat?
+
+Dialogue
+Patient:
+Body ache and fever, scratchy itchy throat?
+Doctor:
+Early COVID-19? Call your health care provider to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!
+

@@ -1,0 +1,12 @@
+id=306
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Nasal congestion and feeling a bit fluey ?
+
+Dialogue
+Patient:
+Nasal congestion and feeling a bit fluey ?
+Doctor:
+In brief:   Stay home   Hi. If you are concerned about COVID-19, please call the hotline on 0800 029 999, see the FAQs on https://www.  gov.za/coronavirus/faq or https://www.who.int/news-room/q-a-detail/q-a-coronaviruses  Would you like to video or text chat with me?         
+

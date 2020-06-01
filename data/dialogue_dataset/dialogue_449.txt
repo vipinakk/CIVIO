@@ -1,0 +1,12 @@
+id=448
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a dry cough, sore throat and headaches, can you please assist with giving me possible explanations for this, I am scared as well due to the Corona virus?
+
+Dialogue
+Patient:
+I have a dry cough, sore throat and headaches, can you please assist with giving me possible explanations for this, I am scared as well due to the Corona virus?
+Doctor:
+In brief:   +- Covid19 (see bel)   There are multiple causes of those symptoms, including COVID 19, but only go for a test if,1.   You have traveled to high risk countries in the last 2-4 weeks2. You have had +ve Contact with a known +ve COVID 19 case3. If you have a high fever with your sore throat + severe headache + dry cough.Hope that helps.RgdsDr Wayne Korras  Would you like to video or text chat with me?         
+

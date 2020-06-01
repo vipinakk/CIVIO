@@ -1,0 +1,12 @@
+id=320
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can having reoccurring strep throat/tonsillitis problems make you more vulnerable to the Coronavirus?
+
+Dialogue
+Patient:
+Can having reoccurring strep throat/tonsillitis problems make you more vulnerable to the Coronavirus?
+Doctor:
+No. The coronavirus apparently only needs to be in contact with the mucosa of the lips, mouth, nose and eyes to infect someone.Please stay home and follow the recommendations of the local authorities.
+

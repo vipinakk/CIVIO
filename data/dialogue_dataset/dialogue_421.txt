@@ -1,0 +1,12 @@
+id=420
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a problem with with my chest. Pain and a bit short of breath. I cough every now and then, no fever and no headaches. But i am concerned it might be this new coronavirus. ?
+
+Dialogue
+Patient:
+I have a problem with with my chest. Pain and a bit short of breath. I cough every now and then, no fever and no headaches. But i am concerned it might be this new coronavirus. ?
+Doctor:
+In brief:   Possible    Top symptoms are cough, SOB and fever. Best to self-quarantine.   Call your provider and or health departmentHealhtap quarantine instructions are as follows:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?         
+

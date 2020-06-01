@@ -1,0 +1,14 @@
+id=20
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can Covid-19 be transmitted sexually? Can any coronavirus be transmitted sexually?
+
+Dialogue
+Patient:
+Can Covid-19 be transmitted sexually? Can any coronavirus be transmitted sexually?
+Doctor:
+In brief: Sort of
+If you are having sex with someone who has Covid-19 you are quite at risk of getting it.
+High likelihood if kissing and having intercourse but it may not be transmitted through intercourse but the closeness in an intimate situation like that with someone who is infected gives a high likelihood of transmission.
+

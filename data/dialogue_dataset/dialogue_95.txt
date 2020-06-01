@@ -1,0 +1,12 @@
+id=94
+https://www.healthcaremagic.com/questions/Suggest-prognosis-for-health-conditions-with-pneumonia-and-congestive-heart-failure/630863
+
+Description
+Suggest prognosis for health conditions with pneumonia and congestive heart failure
+
+Dialogue
+Patient:
+My mom has inclusion body myositis and is 81 years old - she has had the disease for approximately 20 years+ . . .she has been experiencing bouts of pneumonia and congestive heart failure - I am wondering if she will deal with this to the end and if you can tell me what the end will look like?
+Doctor:
+Hello It is hard to predict her clinical picture. Usually it depends on her heart situation and her treating doctor knows better. Regards Dr.Jolanda
+

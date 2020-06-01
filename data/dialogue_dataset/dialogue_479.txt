@@ -1,0 +1,12 @@
+id=478
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Girlfriend has coronavirus. With bad symptoms. It’s 7 days since she started symptoms, and last time I saw her. I still don’t feel symptoms. How much longer am I in the zone of possibly starting symptoms from close exposure?
+
+Dialogue
+Patient:
+Girlfriend has coronavirus. With bad symptoms. It’s 7 days since she started symptoms, and last time I saw her. I still don’t feel symptoms. How much longer am I in the zone of possibly starting symptoms from close exposure?
+Doctor:
+In brief:   Quarantine   You should be in self quarantine as it might take another week for you to develop symptoms.   As soon as spiking fever, having a sore throat or cough- test. Do not travel, nor visit medical facilities.  Would you like to video or text chat with me?         
+

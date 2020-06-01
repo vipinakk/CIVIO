@@ -1,0 +1,12 @@
+id=267
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+On the night of 23rd March I started experiencing soar throat and little bit nose block. I visited GP yesterday and was given flue medication. GP advised against Corona testing since my temp was normal. Should I be concern about the Corona virus?
+
+Dialogue
+Patient:
+On the night of 23rd March I started experiencing soar throat and little bit nose block. I visited GP yesterday and was given flue medication. GP advised against Corona testing since my temp was normal. Should I be concern about the Corona virus?
+Doctor:
+Not at all. Your 
+

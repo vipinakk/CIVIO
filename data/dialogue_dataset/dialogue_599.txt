@@ -1,0 +1,12 @@
+id=598
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If you've been infected by SARS-CoV-2, develop Covid-19 symptoms and recover, can you: 1) develop immunity to Covid-19 2) infect others after 14 days post-symptom onset & recovery 3) get re-infected later by SARS-CoV-2 despite developing immunity?
+
+Dialogue
+Patient:
+If you've been infected by SARS-CoV-2, develop Covid-19 symptoms and recover, can you: 1) develop immunity to Covid-19 2) infect others after 14 days post-symptom onset & recovery 3) get re-infected later by SARS-CoV-2 despite developing immunity?
+Doctor:
+Yes, Maybe, Maybe. We presume one is immune to a respiratory virus for a while after getting the infection (that's the way it is with other viruses). A few people have trouble with their antibodies and don't have much immunity. Shedding of viruses sometimes is longer than 14 days. In life, there will always be some people who get reinfected, for whatever reason. Usually one is immune after the infection. (3/21/20)
+

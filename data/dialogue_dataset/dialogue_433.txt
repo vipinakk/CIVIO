@@ -1,0 +1,12 @@
+id=432
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Chest is sore and that theres something that needs to be coughed up but nothing there and no overt cough or temperature. No difficulty breathing No other symptoms. Only local travel via air 1 week ago. Do I need to be worried about COVID-19?
+
+Dialogue
+Patient:
+Chest is sore and that theres something that needs to be coughed up but nothing there and no overt cough or temperature. No difficulty breathing No other symptoms. Only local travel via air 1 week ago. Do I need to be worried about COVID-19?
+Doctor:
+In brief:   Possible   The most common symptoms from COVID include the following:  Fever, Dry Cough and SOB.    Given no fever, I think general precautions are all that is needed.  Follow the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19, and if fever do the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?         
+

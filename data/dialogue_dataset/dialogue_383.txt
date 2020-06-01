@@ -1,0 +1,12 @@
+id=382
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. Also experiencing body aches. What could be the problem?
+
+Dialogue
+Patient:
+Experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. Also experiencing body aches. What could be the problem?
+Doctor:
+Might need treatment. Could be infection or other condition requiring urgent treatment.  Seek evaluation, but preferably on phone or online, to avoid coronavirus exposure.  Video consultations are available on HealthTap; click on "Talk-to-Doctor." .
+

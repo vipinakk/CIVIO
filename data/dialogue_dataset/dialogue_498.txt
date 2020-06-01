@@ -1,0 +1,12 @@
+id=497
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have covid 19 symptoms but I’m not sure if I have it or it’s the flu?
+
+Dialogue
+Patient:
+I have covid 19 symptoms but I’m not sure if I have it or it’s the flu?
+Doctor:
+Hard to guess. COVID-19 pandemic at this time, so a doctor on video may consult by video instead of requiring an in-person visit. Flu-like symptoms can be from a strep throat infection, a cold or influenza, or from some other cause like COVID-19. Usually, a person calls the doctor if the symptoms are bothersome, serious, recurrent, or persistent. COVID-19 testing depends on local availability. (3/22/20)
+

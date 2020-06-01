@@ -1,0 +1,12 @@
+id=508
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will I be covered if I get Corona 19 with my medival aid?
+
+Dialogue
+Patient:
+Will I be covered if I get Corona 19 with my medival aid?
+Doctor:
+In brief:   Probably...   ... but we here on this forum answer general medical questions, not particulars of individual medical coverage.   Call Medival aid to know for sure.  Would you like to video or text chat with me?         
+

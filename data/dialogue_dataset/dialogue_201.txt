@@ -1,0 +1,12 @@
+id=200
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I have a bad cough, sinus congestion and body aches but no fever. Should I consult with a doctor regarding the current covid19 pandemic?
+
+Dialogue
+Patient:
+Hi, I have a bad cough, sinus congestion and body aches but no fever. Should I consult with a doctor regarding the current covid19 pandemic?
+Doctor:
+In brief:   Most likely not c   Most likely sinusitis or seasonal allergy.   Try to access a telelphonic or virtual consult to discuss thoroughly with someone. For now stay home stay safe. Treat yourself and all in your family as if they have covid for now =it's safer.  Would you like to video or text chat with me?         
+

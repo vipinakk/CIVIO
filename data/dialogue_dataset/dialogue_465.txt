@@ -1,0 +1,12 @@
+id=464
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I’m a mother, so if one of my kids get coronavirus, I get it too and spread it to my entire family since they depend on me for everything. What can I really do? It’s inevitable.
+
+Dialogue
+Patient:
+I’m a mother, so if one of my kids get coronavirus, I get it too and spread it to my entire family since they depend on me for everything. What can I really do? It’s inevitable.
+Doctor:
+In brief:   COVID prevention   It's not inevitable.   Follow the guidelines all over the media and make sure your kids do too:  social distancing, wash hands frquently, stay home except for absolutely necessary trips, wash hands frequently, use antiseptic wipes when you have to touch surfaces outside the home (e.g. shopping cart handles), and avoid touching your face. At your and your kids' age, most infections aren't serious.  Would you like to video or text chat with me?         
+

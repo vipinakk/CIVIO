@@ -1,0 +1,12 @@
+id=454
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Does getting covid19 make you immune to a reinfection or just less likely to be reinfected?
+
+Dialogue
+Patient:
+Does getting covid19 make you immune to a reinfection or just less likely to be reinfected?
+Doctor:
+Less likely nt immun. Your body will develop antibodies against the virus but depending on how strong you keep your immune system, it is possible to get it again if you're re-exposed with a weak immune system .
+

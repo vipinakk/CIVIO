@@ -1,0 +1,12 @@
+id=582
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am a quadriplegic and have a tight chest and slight difficulty breathing.  Overnight I started feeling like I need to clear my throat. I flew home to Joburg from CPT 8 days ago & have been self isolating as a precaution. ?
+
+Dialogue
+Patient:
+I am a quadriplegic and have a tight chest and slight difficulty breathing.  Overnight I started feeling like I need to clear my throat. I flew home to Joburg from CPT 8 days ago & have been self isolating as a precaution. ?
+Doctor:
+In brief:   Monitor.   Stay at home, monitor your temperature, drink fluids and rest.   Nasal congestion and post nasal drip is not typically associated with COVID-19. Watch for dry cough, fever and if your shortness of breath does not resolve, discuss whether you need an inhaler, chest physiotherapy and/or testing. If you have a trach, watch for signs of infection such as more secretions or a change in color .  Would you like to video or text chat with me?         
+

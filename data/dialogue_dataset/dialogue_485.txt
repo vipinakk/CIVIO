@@ -1,0 +1,12 @@
+id=484
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If someone has carona virus and iam passing by him or talking to him without touching he is just breathing. Can this virus effect you by just breathing by the effected or u have to be touched or sneezed upon you to get this virus?
+
+Dialogue
+Patient:
+If someone has carona virus and iam passing by him or talking to him without touching he is just breathing. Can this virus effect you by just breathing by the effected or u have to be touched or sneezed upon you to get this virus?
+Doctor:
+Less likely. Recommended to stay 6 feet apart. However, if no touching and the person was not sneezing the likelyhood of transmission is low. .
+

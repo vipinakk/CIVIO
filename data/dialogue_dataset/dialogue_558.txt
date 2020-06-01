@@ -1,0 +1,12 @@
+id=557
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will Lysol wipes kill coronavirus? How long can coronavirus live on household surfaces?
+
+Dialogue
+Patient:
+Will Lysol wipes kill coronavirus? How long can coronavirus live on household surfaces?
+Doctor:
+In brief:   Several days   Lysol should  be good.    Seehttps://www.wired.com/story/coronavirus-disinfectant-cleaning-guide/  Would you like to video or text chat with me?         
+

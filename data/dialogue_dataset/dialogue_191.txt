@@ -1,0 +1,12 @@
+id=190
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+On and off fever, sore body?
+
+Dialogue
+Patient:
+On and off fever, sore body?
+Doctor:
+Probable flu. This definitely sounds like Influenza is starting.( Unless you have any obvious reason to suspect COVID-19,Malaria,Tick Bite Fever or Glandular Fever).Rest,Vitamin C and a suitable over the counter painkiller. I would advise avoiding Ibuprofen and other Non-Steroidal Anti-Inflammatory medication.
+

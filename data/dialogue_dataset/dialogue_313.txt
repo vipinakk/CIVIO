@@ -1,0 +1,12 @@
+id=312
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Preauricular lymph node on left side very tender, scalp on left side of head tender and hurts to touch, superficial parotid lymph node area on left side swollen and tender. Pain behind both ears.No injury.Came on suddenly, has been 1 day.Temp 100.1°
+
+Dialogue
+Patient:
+Preauricular lymph node on left side very tender, scalp on left side of head tender and hurts to touch, superficial parotid lymph node area on left side swollen and tender. Pain behind both ears.No injury.Came on suddenly, has been 1 day.Temp 100.1°
+Doctor:
+In brief:   Periauricular pain    May be otitis ear infection or mastoiditis infection in the bone behind the ear.  Could call health tap prime  for  video assessment  and antibiotic prescription.   Sometimes you  may need IM or IV antibiotics.  Call Healthtap Prime or MD today ( even with corona ongoing you need treatment for this today).   Would you like to video or text chat with me?         
+

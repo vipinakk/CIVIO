@@ -1,0 +1,12 @@
+id=354
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How dangerous is coronavirus if someon has heart arrhythmia and is type 2 diabetes?
+
+Dialogue
+Patient:
+How dangerous is coronavirus if someon has heart arrhythmia and is type 2 diabetes?
+Doctor:
+In brief:   Concern   Diabetes if controlled well typically should not be an issue.   I realize there are some conflicting information, but I think the evidence shows that if diabetes controled your immune system still reacts appropriately and not an issue. Arrythmia in itself not and issue. Your age is 60 and that starts to be category of concern with 3% mortality rate.  If you do not smoke that is the key.   Would you like to video or text chat with me?         
+

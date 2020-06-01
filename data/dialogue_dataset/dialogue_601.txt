@@ -1,0 +1,12 @@
+id=600
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I was on a plane on March 8th have been home ever since self quarantine myself I have had headaches and runny throat I have 2 days left of my self quarantine should I be having worse symptoms by now ?
+
+Dialogue
+Patient:
+I was on a plane on March 8th have been home ever since self quarantine myself I have had headaches and runny throat I have 2 days left of my self quarantine should I be having worse symptoms by now ?
+Doctor:
+In brief:   COVID   These are HealthTap guidelines:https://www.  healthtap.com/blog/covid-19-care-guidelines/virtual-care-guidelines-for-covid-19?utm_campaign=COVID%20OUTREACH&utm_medium=email&_hsmi=84951814&_hsenc=p2ANqtz-_jlHAfqZrXrCncGR4mJ57eQcomM2TItlnybAQii_sH-f4IyZjpz7-eIVc1oKN2_qDpZnO3&utm_content=84951814&utm_source=hs_emailI agree your symptoms should be improving.  Contact provider.   Would you like to video or text chat with me?         
+

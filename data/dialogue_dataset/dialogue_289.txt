@@ -1,0 +1,12 @@
+id=288
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Pharmacy Times, in an article from 2017, states that Singulair could help prevent viral pneumonia with influenza and could prevent the infection of alveolar cells deep in the LRT. Would this hold true with Coronavirus? Thank you and God Bless!
+
+Dialogue
+Patient:
+Pharmacy Times, in an article from 2017, states that Singulair could help prevent viral pneumonia with influenza and could prevent the infection of alveolar cells deep in the LRT. Would this hold true with Coronavirus? Thank you and God Bless!
+Doctor:
+In brief:   No. It is not... yet   That new is based in a paper (https://journals.  plos.org/plospathogens/article?id=10.1371/journal.ppat.1006140) which says that inhibition of leukotrienes (which Singulair-Montelukast inhibits) in mice, not humans, had a protection effect against death caused by Influenza A virus pneumonia. Further research is needed to ensure that this works for influenza, and even more for ?SARS-CoV-2.  Would you like to video or text chat with me?         
+

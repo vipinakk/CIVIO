@@ -1,0 +1,12 @@
+id=433
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I got back from Israel last Monday  I am in quarantine  My symptoms are tight chest and shortness of breath Do I need to have a test? Should I be taking any medication?
+
+Dialogue
+Patient:
+I got back from Israel last Monday  I am in quarantine  My symptoms are tight chest and shortness of breath Do I need to have a test? Should I be taking any medication?
+Doctor:
+In brief:   Covid test    two weeks of self isolation, if you get worse, call your GP firstTake anti histamines and panda only ,  get an asthavent pump, use twice a dayLots of fluids, vit C and Zinc, add echinaforce drops  Would you like to video or text chat with me?         
+

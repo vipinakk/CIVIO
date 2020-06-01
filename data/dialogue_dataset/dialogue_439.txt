@@ -1,0 +1,12 @@
+id=438
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi I asked a specific question to a Dr 2 days ago and haven’t heard anything back. I basically need a referral letter to get a Covid test done. It’s that simple. I travelled to Cape Town but attended an event with over 400 people from all over?
+
+Dialogue
+Patient:
+Hi I asked a specific question to a Dr 2 days ago and haven’t heard anything back. I basically need a referral letter to get a Covid test done. It’s that simple. I travelled to Cape Town but attended an event with over 400 people from all over?
+Doctor:
+See your physician. Your personal physician can give you this letter. This forum is for answering general medical/dental questions.
+

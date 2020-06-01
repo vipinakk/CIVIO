@@ -1,0 +1,12 @@
+id=459
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can vaccines for coronavirus in domestic pets be modified for humans as a way to have a vaccine for covid-19?
+
+Dialogue
+Patient:
+Can vaccines for coronavirus in domestic pets be modified for humans as a way to have a vaccine for covid-19?
+Doctor:
+In brief:   No    I really don't think so but its a very different virus as is the old corona we know - 5 varieties of the common cold are from coronaviruses  Would you like to video or text chat with me?         
+

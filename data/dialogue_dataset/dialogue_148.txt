@@ -1,0 +1,12 @@
+id=147
+https://www.healthcaremagic.com/questions/What-does-this-chest-X-ray-test-result-for-pneumonia-indicate/1489824
+
+Description
+What does this chest X-ray test result for pneumonia indicate?
+
+Dialogue
+Patient:
+Hi, My chest x-ray reveals i have a small lingular infiltrate.WBC,lymphocytes,HCT etc elevated due to infection.I had a course of augmentin duo and steroid.currently on azithromycin 250 mgs.symptoms of pneumonia still persisting.Do i need to change my treatment?
+Doctor:
+Hello dearWarm welcome to Healthcaremagic.comI have gone through your query thoroughly .*  X-ray result indicates infection of the lung with some sort of bacteria     giving  rise to pneumonia .*  Pneumonia  recovery  takes  time  depending upon the virulence of the    organisms , host immune  response and other co morbid conditions .*  If  your  symptom score has declined  from  the  initiation of the therapy    wait  for  further  progress , if  the  intensity  of  the symptoms  is  as    it  is  then  have  to  consider  the change  of  therapy  or  consultant .Hope this clears your doubt .Thanks .Regards .
+

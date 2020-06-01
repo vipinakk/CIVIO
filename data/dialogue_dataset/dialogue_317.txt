@@ -1,0 +1,12 @@
+id=316
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Good day  I have unusual sore throat burny sensation in chest area  Body aches, dry cough, Headaches, paranoia,have travelled to Dubai end Jan ?
+
+Dialogue
+Patient:
+Good day  I have unusual sore throat burny sensation in chest area  Body aches, dry cough, Headaches, paranoia,have travelled to Dubai end Jan ?
+Doctor:
+In brief:   Covid 19   The incubation period of covid 19 is 2-14 days and you're past that.   However if fever, chills, heavier cough, or breathing difficulties develop, call your MD for instructions. For now, drink adequate fluids, gargle with warm salt water. I recommend also using zinc lozenges and take acetaminophen. Don't infect others regardless of what type of infection you have.  Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=539
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is corno virus 19 can stay on metal and plastic what about the soles of shoes ?  Would it be nessasary or good idea  to take shoes off at door at home and spray with lysol ?
+
+Dialogue
+Patient:
+Is corno virus 19 can stay on metal and plastic what about the soles of shoes ?  Would it be nessasary or good idea  to take shoes off at door at home and spray with lysol ?
+Doctor:
+In brief:   Great Question   Not sure if you need to worry about your shoes, but it won't hurt.   In my house, we take off shoes and outside clothes at the door after we enter. The clothes go immediately into the laundry, we wash our hands with soap and water, then put on "house clothes". Different from "public" clothes. We try to prevent the potential introduction of the virus into out home. Once inside, everything is clean.  Would you like to video or text chat with me?         
+

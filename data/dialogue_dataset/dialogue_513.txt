@@ -1,0 +1,12 @@
+id=512
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Body aching all of a sudden, head heavy and paining, sneezing, somewhat fever since yesterday.
+
+Dialogue
+Patient:
+Body aching all of a sudden, head heavy and paining, sneezing, somewhat fever since yesterday.
+Doctor:
+Virus. Symptoms could be either influenza or the covid 19 virus. Call your local doctor to discuss these new changes in your health to determine what testing will,be needed, and steps you should take. At least for,now, treat the symptoms with acetaminophen (not ibuprofen) , Cough syrup. Isolate yourself away from other people, wear a mask to avoid spreading virus, sneeze into elbow, wash hands frequently.
+

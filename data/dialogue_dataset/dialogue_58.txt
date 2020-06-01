@@ -1,0 +1,16 @@
+id=57
+https://www.healthcaremagic.com/questions/Should-a-CT-scan-be-done-while-suffering-from-pneumonia/1475273
+
+Description
+Should a CT scan be done while suffering from pneumonia?
+
+Dialogue
+Patient:
+My 62 year old sister is currently hospitalized for pneumonia that was dx after foot surgery related to a fall. She had Breast CA 8 years ago. Currently taking Tamoxifin. BRCA II gene. 3 sisters also with gene mutation and hx of breast CA. Youngest sister passed away from recurrance of Breast CA. (Mets to lungs, liver and bones.) Hospital ruled out blood clot in lung. Dx with pneumonia. Should CT scan be done since she has has a long standing cough and multiple bouts of pneumonia.
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service. 
+I have reviewed your query and here is my advice.
+ Yes, she can safely do the chest CT. There is not any contraindication of doing it in pneumonia.
+ Regards,
+Dr.Jolanda
+

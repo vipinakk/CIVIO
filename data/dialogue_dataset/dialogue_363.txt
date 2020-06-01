@@ -1,0 +1,12 @@
+id=362
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a dry burning sensation in my throat and no fever (temp is 35.6),  I’m 24 weeks pregnant and worried that it may be Covid19, Do I need to have a fever with Covid19? Will my baby be okay?
+
+Dialogue
+Patient:
+I have a dry burning sensation in my throat and no fever (temp is 35.6),  I’m 24 weeks pregnant and worried that it may be Covid19, Do I need to have a fever with Covid19? Will my baby be okay?
+Doctor:
+In brief:   Probably not COVID19   early COVID 19 may not have a fever, but usually does by on average 5 days after exposure.  what is your exposure to COVID? that is more important to determine the possibility of developing COVID 19  Would you like to video or text chat with me?         
+

@@ -1,0 +1,13 @@
+id=97
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-community-acquired-pneumonia/548129
+
+Description
+Suggest treatment for community acquired pneumonia
+
+Dialogue
+Patient:
+I am a family doctor in an outpatient family medicine setting, and the question was raised reguarding treatment for community acquired pneumonia. If reoccurance of infection occurs, after treatment with z pack within 90 days how  should patient be treated.
+Would it be safe to treat again with levaquin as an outpatient?
+Doctor:
+HelloIt depends on the age, commodities, immunity status and the cause why the pneumonia is come back again.RegardsDr.Jolanda
+

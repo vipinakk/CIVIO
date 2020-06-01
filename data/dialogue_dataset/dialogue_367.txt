@@ -1,0 +1,12 @@
+id=366
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can sinusitis cause white spots on tonsils?
+
+Dialogue
+Patient:
+Can sinusitis cause white spots on tonsils?
+Doctor:
+In brief:   Usually does not   Throat symptoms can be from strep throat infection (antibiotics are needed), a cold or other virus (antibiotics usually not used), allergies, irritants, sinusitis, stomach reflux when asleep, etc.  .. One usually sees the doctor if the throat issue is bothersome, recurrent, or doesn't go away quickly. A strep throat swab test can easily diagnose strep throat.  Would you like to video or text chat with me?         
+

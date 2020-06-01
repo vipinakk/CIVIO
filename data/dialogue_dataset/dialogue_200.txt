@@ -1,0 +1,12 @@
+id=199
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi  My throat is sore, and very scratchy, I have also have a cough to accompany this, well the cough started about a week ago, I have no fever. Just want to know if this is anyway related to covid 19  My voice is also very hoarse?
+
+Dialogue
+Patient:
+Hi  My throat is sore, and very scratchy, I have also have a cough to accompany this, well the cough started about a week ago, I have no fever. Just want to know if this is anyway related to covid 19  My voice is also very hoarse?
+Doctor:
+In brief:   Unlikely   It could be, however going out right now is dangerous to you and others.   If you don't have it yet going out risks getting it. If you have it you can spread it. Try to access a thorough consult on the phone or virtually. Keep chatting we are here for you.  Would you like to video or text chat with me?         
+

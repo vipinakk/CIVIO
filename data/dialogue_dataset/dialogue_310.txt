@@ -1,0 +1,12 @@
+id=309
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+To help the community, should anyone returning from any country with cases of nCoV self-quarantine before returning to work?
+
+Dialogue
+Patient:
+To help the community, should anyone returning from any country with cases of nCoV self-quarantine before returning to work?
+Doctor:
+In brief:   Odd comment   Since all countries have reported cases of Covid-19 the question is a bit inconsistent with current fact.   Any and all people should self quarantine if they had a known exposure in any setting. I would not consider anyone traveling from all areas either exposed or a risk to others. The hysteria of this idea is worse than the disease.  Would you like to video or text chat with me?         
+

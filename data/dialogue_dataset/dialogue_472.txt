@@ -1,0 +1,12 @@
+id=471
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+And i travelled to the UK (back in RSA on the 1st or March but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. Followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?
+
+Dialogue
+Patient:
+And i travelled to the UK (back in RSA on the 1st or March but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. Followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?
+Doctor:
+In brief:   Infection   Influenza versus Coronavirus.    Typically more sudden onset of fever and myalgias with influenza, but sometimes hard to tell. If no significant SOB probably need to quarantine. Call your local physician or health department. I know Healthtap has been helping to order or recommend test, but typically test not available. If Coronavirus most cases have been mild and expect about 10 days of symptoms.  Would you like to video or text chat with me?         
+

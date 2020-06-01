@@ -1,0 +1,12 @@
+id=493
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am the main member of discovery, I want to complete a health covid assessment for my husband? Please let me know how to do so?
+
+Dialogue
+Patient:
+I am the main member of discovery, I want to complete a health covid assessment for my husband? Please let me know how to do so?
+Doctor:
+In brief:   Call Discovery   You'll need to call Discovery.  Would you like to video or text chat with me?        
+

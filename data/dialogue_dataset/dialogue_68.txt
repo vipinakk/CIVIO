@@ -1,0 +1,12 @@
+id=67
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-lung-pain-when-suffering-from-bilateral-pneumonia/521389
+
+Description
+Suggest treatment for lung pain when suffering from bilateral pneumonia
+
+Dialogue
+Patient:
+I am positive for Alpha 1 but at this point am not being treated. I developed bilateral pneumonia 4 weeks ago, have been on two rounds of Levaquin, and other than my fever leaving (which was 102 for three days) don t feel any better. My ribs feel like someone punched me, and whenever I cough, I taste copper which I am assuming is blood. It s probably from how hard I cough,. Been to the doc twice, this time added mucinex to the mix to try to loosen things up. Not sure how much longer I can do this! YYYY@YYYY
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service.I have reviewed your query and here is my advice.Pneumonia causes pleurisy (inflammation of pleura). So chest pain is commonly seen with pneumonia and anti-inflammatory painkiller drugs like paracetamol or ibuprofen should be tried. You can also apply warm water pad on affected areas of the chest. Once your pneumonia is cured, your pain will definitely subside. Mucinex is a good drug for pneumonia. It actually dilutes the secretions and made them easy to cough out. So continue with Mucinex. Hope I have answered your query. Let me know if I can assist you further.Regards,      Dr. Kaushal Bhavsar
+

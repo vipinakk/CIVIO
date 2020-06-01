@@ -1,0 +1,12 @@
+id=403
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My wife is a nurse in a GP practice, and although she has a mask and gloves etc, is that enough to protect her, if an infected patient with the virus was to come in to her?
+
+Dialogue
+Patient:
+My wife is a nurse in a GP practice, and although she has a mask and gloves etc, is that enough to protect her, if an infected patient with the virus was to come in to her?
+Doctor:
+Nearly. need an N95 mask, gloves and gown as well as eye protection if in contact with aerosol, if working with truely negative she is safe, but we need more testing and to keep mildly ill with corona away from every body else.
+

@@ -1,0 +1,12 @@
+id=577
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am 63 living in Jhb and have had a tight chest and sore throat and wet cough for more than a week ?
+
+Dialogue
+Patient:
+I am 63 living in Jhb and have had a tight chest and sore throat and wet cough for more than a week ?
+Doctor:
+In brief:   Flu like sx.   Stay at home, monitor your temperature, drink fluids and rest.   If your cough is associated with fever and/or does not begin to improve, please see your PCP.  You may have bacterial bronchitis -avoid smoke, dust, mold, animal dander and pollen. Influenza and COVID are associated with fever. The cough with COVID is typically dry. If you have underlying lung disease, test for CoV/flu.  Would you like to video or text chat with me?         
+

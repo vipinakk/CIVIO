@@ -1,0 +1,12 @@
+id=535
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Where can I get tested for COVID19? And will discovery pay for the test?
+
+Dialogue
+Patient:
+Where can I get tested for COVID19? And will discovery pay for the test?
+Doctor:
+In brief:   Consult first   BEtter to consult either telephonically or virtually.   Lancet and ampath are doing tests. Discovery will pay if it is positive. Gift of the givers are also doing drive through testing for R750.00 - at least in pietermaritzburg. Discovery have a covid fund.  Would you like to video or text chat with me?         
+

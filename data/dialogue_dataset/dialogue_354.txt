@@ -1,0 +1,12 @@
+id=353
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is it safe to take ibuprufen during thisbseasonnof corona outbreak or should we take paracetamol?
+
+Dialogue
+Patient:
+Is it safe to take ibuprufen during thisbseasonnof corona outbreak or should we take paracetamol?
+Doctor:
+Medications. I am unaware of any contraindications to either ibuprofen or paracetamol. You can take either. When I get sick I like to take both. One can be taken every 4 hours and the other every 6 hours. .
+

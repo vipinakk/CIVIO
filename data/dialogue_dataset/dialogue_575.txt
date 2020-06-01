@@ -1,0 +1,12 @@
+id=574
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Swollen tonsils, cough, and feeling slightly feverish.
+
+Dialogue
+Patient:
+Swollen tonsils, cough, and feeling slightly feverish.
+Doctor:
+Coronavirus possible. Seek care right away if difficulty breathing, other severe symptoms.Seek testing if sick, PLUS known COVID-19 contact, or travel to high risk country, or been in facility treating people with COVID-19, or severe pneumonia of unknown cause.Call 0800 029 999 for test. If sick or possibly exposed (not both), stay home.Seek consultation if sick.If known exposure & not sick, self-isolate 14 days.
+

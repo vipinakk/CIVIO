@@ -1,0 +1,12 @@
+id=286
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If I have had a sore throat for 3 days but with no fever should I be tested for COVID-19?
+
+Dialogue
+Patient:
+If I have had a sore throat for 3 days but with no fever should I be tested for COVID-19?
+Doctor:
+Call 
+

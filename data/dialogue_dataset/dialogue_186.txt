@@ -1,0 +1,12 @@
+id=185
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Blocked nose,coughing,aore throat,sometimes fever.Sometimes body aches.
+
+Dialogue
+Patient:
+Blocked nose,coughing,aore throat,sometimes fever.Sometimes body aches.
+Doctor:
+In brief:   Telephonic consult?   Could well be another respiratory virus, I would stay home for now.   Use this platform to consult either virtually or ask more questions. Use home medicine - decongestant and pain medication. STay away from any anti-inflammatories if possible. Keep up warm fluids.  Would you like to video or text chat with me?         
+

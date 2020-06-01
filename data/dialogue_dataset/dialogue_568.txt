@@ -1,0 +1,12 @@
+id=567
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My 2year old Son has had a dry cough and a runny nose since thursday . He's not talking yet so it is difficult to tell if he has any trouble breathing so I'm concerned. He does not have temperature ?
+
+Dialogue
+Patient:
+My 2year old Son has had a dry cough and a runny nose since thursday . He's not talking yet so it is difficult to tell if he has any trouble breathing so I'm concerned. He does not have temperature ?
+Doctor:
+In brief:   Observatn is enough.   By looking at your child you'll know if he is having breathing difficulties.   Cough with a runny nose is common in children. You should be concerned only if he is refusing to play and eat, or if he develops breathing difficulties. Having a fever doesn't mean he has the Coronavirus. He is more likely to be infected with any of the common infections in your area of Gauteng.  Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=407
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have been running a low grade fever for over two weeks. I have three days left of a Cefidner prescription.  I am still running a low-grade - ranges from 99 to high of 100.7.  I have no other symptoms except usual allergies.  Will blood work show what is
+
+Dialogue
+Patient:
+I have been running a low grade fever for over two weeks. I have three days left of a Cefidner prescription.  I am still running a low-grade - ranges from 99 to high of 100.7.  I have no other symptoms except usual allergies.  Will blood work show what is
+Doctor:
+In brief:   Bloods do help    but only a corona virus test confirms - stay home or be tested safely, your problem sounds more chronic but hard to say  Would you like to video or text chat with me?         
+

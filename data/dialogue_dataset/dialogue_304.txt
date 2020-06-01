@@ -1,0 +1,12 @@
+id=303
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Flu symptoms, cough and no fever. Should I test for Coronavirus? I have asthma
+
+Dialogue
+Patient:
+Flu symptoms, cough and no fever. Should I test for Coronavirus? I have asthma
+Doctor:
+Covid 19 testing . Hi at the moment it is only recommended that you test for COVID 19 if you have a close contact that has tested positive for the virus or have had recent international travel in the last 14 days. If your symptoms are worsening or your asthma is uncontrolled  you should call your GP rooms or attend your nearest emergency room.
+

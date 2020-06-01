@@ -1,0 +1,12 @@
+id=411
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Good afternoon, I recently visited a client whose husband works in the same practice as a confirmed Covid case.Two days after the visit I fell ill, gradually getting a sore throat, fever and feeling tired. Should I get tested?
+
+Dialogue
+Patient:
+Good afternoon, I recently visited a client whose husband works in the same practice as a confirmed Covid case.Two days after the visit I fell ill, gradually getting a sore throat, fever and feeling tired. Should I get tested?
+Doctor:
+In brief:   Tesing   Follow the following guidelines: https://www.  healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide Call your local provider or Health department. At 36 you would be considered low risk for serious infection.  The test in itself does not lead to a specific action and the tests are numbered. So at this time the tests are limited and being used for sicker patients.   Would you like to video or text chat with me?         
+

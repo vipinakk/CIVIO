@@ -1,0 +1,12 @@
+id=134
+https://www.healthcaremagic.com/questions/Suggest-treatment-to-cure-pneumonia/629054
+
+Description
+Suggest treatment to cure pneumonia
+
+Dialogue
+Patient:
+hi last night i went to emerg i heard the nurse tell my doctor i might have pnemonia he didn't even bother coming to see me and when i left upset and walked to his office he prescribed me meds that may react somehow with the meds i'm taking  should i be concerned should find a new doctor is this common way to treat your patients? he was the doctor on call last night
+Doctor:
+Thanks for your question on Healthcare Magic.I can understand your concern.Yes, you should definitely consult another doctor.Pneumonia is lung infection and it should be treated promptly and correctly.And chest x ray is must for the diagnosis of pneumonia.So better to consult another doctor and get done chest x ray to rule out pneumonia.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+

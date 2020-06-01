@@ -1,0 +1,12 @@
+id=318
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hello iam have a very painfull pain in my through since this morning?
+
+Dialogue
+Patient:
+Hello iam have a very painfull pain in my through since this morning?
+Doctor:
+In brief:   Common flu   Hello.During the coronavirus outbreak the best thing you can do for yourself, your family and your comunity is to stay home.  Don't go to school or work, stay at home and isolate yourself specially from the elders.Do whatever you do when you have the common cold.Drink a lot of fluids, take Tylenol for the sore throat and please DON'T go to the doctor unless you're feeling shortness of breath  Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=450
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If I present with a scratchy throat, do I automatically self isolate, or do I wait for more symptoms for coronavirus?
+
+Dialogue
+Patient:
+If I present with a scratchy throat, do I automatically self isolate, or do I wait for more symptoms for coronavirus?
+Doctor:
+Don't isolate yet. . A scratchy throat could be caused by heartburn, oral thrush, bacterial pharyngitis (@ the beginning) or any of the 200 odd viruses that cause the "common cold".If you have had a +ve Contact with a Covid 19 patient then isolate FOR 14 DAYS or ifyou develop a High Fever, severe headache, dry cough and sore throat, the isolate but only after getting tested for COVID 19.
+

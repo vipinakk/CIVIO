@@ -1,0 +1,12 @@
+id=400
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Do I have coronavirus ? I have joint pains. I did sleep most of the day yesterday so I might have been in an uncomfortable position. I have neck, shoulder, elbow joint and wrist pain. Must I get tested ?
+
+Dialogue
+Patient:
+Do I have coronavirus ? I have joint pains. I did sleep most of the day yesterday so I might have been in an uncomfortable position. I have neck, shoulder, elbow joint and wrist pain. Must I get tested ?
+Doctor:
+In brief:   No   not yet, joint pain alone not an indication, but stay home   Would you like to video or text chat with me?        
+

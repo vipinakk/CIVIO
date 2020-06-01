@@ -1,0 +1,12 @@
+id=333
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can I catch corona from food that I eat? Should I be making sure to cook all my food thoroughly first?
+
+Dialogue
+Patient:
+Can I catch corona from food that I eat? Should I be making sure to cook all my food thoroughly first?
+Doctor:
+Food. This link will help! https://www.fsai.ie/faq/coronavirus.htmlIn general food is not a problem.  Unless you are dining on bats in Wuhan! Here is a good article on that.https://www.nytimes.com/2020/02/10/science/pangolin-coronavirus.html.
+

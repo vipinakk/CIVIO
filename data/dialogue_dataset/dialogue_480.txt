@@ -1,0 +1,12 @@
+id=479
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Scratching sore thoat and  slight chest irritation. With body aches and tired with slight fever?
+
+Dialogue
+Patient:
+Scratching sore thoat and  slight chest irritation. With body aches and tired with slight fever?
+Doctor:
+In brief:   Fever with body ache   Hello & welcome to HealthTap,It could be anything from common cold to COVID-19.   Please go to Prompt care. Call them before going.  When tested for COVID-19, self quarantine for total 2 weeks from the onset of symptoms. Please wear mask and perform frequent hand washing. Avoid Ibuprofen/other NSAIDs, use acetaminophen/ Tylenol only. If signs of worsening cough & breathing present then go to ED.  Would you like to video or text chat with me?         
+

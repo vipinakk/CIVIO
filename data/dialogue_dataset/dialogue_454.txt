@@ -1,0 +1,12 @@
+id=453
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I had severe fever on Saturday evening, with chills, muscle aches (no sore throat or breathing difficulty). Woke up in deep sweat feeling better. Had very mild fever on Sunday evening, also waking up in cold sweat. I am feeling fine today. COVID 19???
+
+Dialogue
+Patient:
+I had severe fever on Saturday evening, with chills, muscle aches (no sore throat or breathing difficulty). Woke up in deep sweat feeling better. Had very mild fever on Sunday evening, also waking up in cold sweat. I am feeling fine today. COVID 19???
+Doctor:
+Self isolate. The current guidelines are if you have symptoms and traveled or been in contact with anyone with confirmed COVID-19, arrange for testing (wear a mask when you go out). Otherwise self isolate for 14 days. If getting worse, also arrange for testing. For more info try whatapps "Hi" to DOH help line: 0600 123456.
+

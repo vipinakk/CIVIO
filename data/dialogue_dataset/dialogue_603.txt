@@ -1,0 +1,12 @@
+id=602
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can coronavirus symptoms be mild for some people versus severe? For example, could it just involve being very fatigued, low grade fever for a few days and not the extreme symptoms? Or is it always a full blown cold and struggle to breathe?
+
+Dialogue
+Patient:
+Can coronavirus symptoms be mild for some people versus severe? For example, could it just involve being very fatigued, low grade fever for a few days and not the extreme symptoms? Or is it always a full blown cold and struggle to breathe?
+Doctor:
+In brief:   Symptoms vary.   Some may have no symptoms at all. Some can be life threatening.   Would you like to video or text chat with me?        
+

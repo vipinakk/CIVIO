@@ -1,0 +1,12 @@
+id=287
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I need a referral for testing for COVID19. I have been in very close contact with a positive person. I am a Healthcare practitioner, it was one of my patients. I just flew to EL from CT. So no GP here. ?
+
+Dialogue
+Patient:
+I need a referral for testing for COVID19. I have been in very close contact with a positive person. I am a Healthcare practitioner, it was one of my patients. I just flew to EL from CT. So no GP here. ?
+Doctor:
+In brief:   Wrong place to ask   This is the HT public site where volunteer docs primarily in the USA answer health questions.   We do not do referrals/provide notes or prescriptions or any other form of direct service. You need to contact a local provider in your country/location for such needs.  Would you like to video or text chat with me?         
+

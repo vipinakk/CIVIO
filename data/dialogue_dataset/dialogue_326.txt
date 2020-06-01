@@ -1,0 +1,12 @@
+id=325
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Stayed in hotel Fri night. Heard of pos COVID-19 case later pm. Left hotel & self isolated since Sat. Wasn’t in any contact. Isolated as didn’t know if any staff serving me had been infected. As long as no symptoms - how long must I self-isolate for?
+
+Dialogue
+Patient:
+Stayed in hotel Fri night. Heard of pos COVID-19 case later pm. Left hotel & self isolated since Sat. Wasn’t in any contact. Isolated as didn’t know if any staff serving me had been infected. As long as no symptoms - how long must I self-isolate for?
+Doctor:
+7 days. Stay at home for 7 days without symptoms. Monitor your temperature, rest, drink fluids   If symptoms develop, please notify your physician and test. .
+

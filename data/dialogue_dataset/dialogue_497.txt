@@ -1,0 +1,12 @@
+id=496
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What must I do if I have been in contact with a covid19 positive person?
+
+Dialogue
+Patient:
+What must I do if I have been in contact with a covid19 positive person?
+Doctor:
+If real contact... Self-quarantine helps:  Stay at home, except for going to get medical care. Do not go to work, school, church, playgrounds, or other public areas. For medical care questions about your COVID-19 symptoms or other health issues, get advice from your doctor by video or phone. See the full guide at:  https://www.healthtap.com/blog/post/covid19-coronavirus-self-quarantine-guide.
+

@@ -1,0 +1,12 @@
+id=230
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My wife just found out that she sat next to someone on Tuesday who is being tested for the Coronavirus. Person is being tested as his wife was tested positive. Please advise next steps.
+
+Dialogue
+Patient:
+My wife just found out that she sat next to someone on Tuesday who is being tested for the Coronavirus. Person is being tested as his wife was tested positive. Please advise next steps.
+Doctor:
+Stay home. Right now stay home, keep reporting here. THEre should be home to home testing coming soon. Mild corona virus is easy to treat at home. Treat everyone right now as if they have it, including everyone in your home.
+

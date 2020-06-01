@@ -1,0 +1,12 @@
+id=385
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is the flu injection available?
+
+Dialogue
+Patient:
+Is the flu injection available?
+Doctor:
+In brief:   Not sure, but...   I'm writing from the U.  S., and I'm not sure of the availability of vaccination for influenza in your area.  However, with the coronavirus pandemic, getting your flu shot is a good idea, if possible.  It's always a good idea, but, also, though it won't protect you from coronavirus, you could get both. And, if you get the flu, not knowing if it's flu or coronavirus presents complications.  Would you like to video or text chat with me?         
+

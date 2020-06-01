@@ -1,0 +1,12 @@
+id=261
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What are low and high temperatures at which Covid 19 virus cannot survive?
+
+Dialogue
+Patient:
+What are low and high temperatures at which Covid 19 virus cannot survive?
+Doctor:
+In brief:   Not as fragile   as one might hope.       -80 C does not kill it                                        +56 C does kill it  Would you like to video or text chat with me?         
+

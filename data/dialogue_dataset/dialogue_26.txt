@@ -1,0 +1,14 @@
+id=25
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What symptoms would make you think I do not have COVID-19. I have a bad cold, but got diarrhea twice, so does diarrhea mean it is not COVID?
+
+Dialogue
+Patient:
+What symptoms would make you think I do not have COVID-19. I have a bad cold, but got diarrhea twice, so does diarrhea mean it is not COVID?
+Doctor:
+In brief: No
+Diarrhea does not rule out COVID.
+If you have traveled to endemic areas or met with people that traveled there, you should test if possible.
+

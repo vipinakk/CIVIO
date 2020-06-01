@@ -1,0 +1,12 @@
+id=597
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a dry cough and sore throat- it's been a week now and the cough seems to be getting worse- no runny nose or fever, sometimes a headache, no shortness of breath...should I get tested for covid19?
+
+Dialogue
+Patient:
+I have a dry cough and sore throat- it's been a week now and the cough seems to be getting worse- no runny nose or fever, sometimes a headache, no shortness of breath...should I get tested for covid19?
+Doctor:
+In brief:   COVID   Good guidelines can be found at cdc.  gov/coronavirus/2019.  You would be considered low risk. Symptoms last up to two weeks. High probability many will get the disease and testing leads to no change in action at this time.  No obvious therapy (however some encouraging possibilites) and for most people the virus runs its course without incidence. Stay put and talk to your provider.   Would you like to video or text chat with me?         
+

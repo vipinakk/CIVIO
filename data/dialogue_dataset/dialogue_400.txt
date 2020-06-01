@@ -1,0 +1,12 @@
+id=399
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I have come into contact with someone that tested positive for the virus, what do I need to do? I have been isolating for a week now and developed a sore throat yesterday
+
+Dialogue
+Patient:
+Hi, I have come into contact with someone that tested positive for the virus, what do I need to do? I have been isolating for a week now and developed a sore throat yesterday
+Doctor:
+In brief:   Continue to    self isolate.   Get rest, drink lots of liquids, tylenol as needed, IF get severely sick seek care.  Would you like to video or text chat with me?         
+

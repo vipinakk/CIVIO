@@ -1,0 +1,12 @@
+id=314
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Do you think this corona virus stuff will ever go away? I'm tired of being a prisoner in my own home cause of everything getting cancelled, im not working and I cant volunteer cause of a bad knee and cant lift heavy stuff. So when will this be over?
+
+Dialogue
+Patient:
+Do you think this corona virus stuff will ever go away? I'm tired of being a prisoner in my own home cause of everything getting cancelled, im not working and I cant volunteer cause of a bad knee and cant lift heavy stuff. So when will this be over?
+Doctor:
+It will.... But it will take some time to break the chain of infection, to find a cure, and to find a vaccine. It is stressful for everyone. One way to look at it is that we are all in this together, irregardless of political party, race, or religion. As a people, we can overcome a simple virus and be stronger as a whole. You are not alone, millions of others share your concerns. Hang in there....
+

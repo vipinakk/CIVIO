@@ -1,0 +1,12 @@
+id=376
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have been coughing and sneezing for the past 2 weeks. Throat really sore past week. Always thirsty. Diarrhea started on Friday night and vomiting since this afternoon. Have a constant fever from Wednesday. ?
+
+Dialogue
+Patient:
+I have been coughing and sneezing for the past 2 weeks. Throat really sore past week. Always thirsty. Diarrhea started on Friday night and vomiting since this afternoon. Have a constant fever from Wednesday. ?
+Doctor:
+In brief:   Covid-19   This may be influenza or Covid 19 and warrants a call to your physician to get instructions of whether to be examined,cultured and/or tested for Covid 19 virus, ordered to have a chest xray and/or started, on antibiotics.   A lot depends on whether you're in an endemic area or have been exposed to someone who has the infection or had travelled from an affected region. Gargle,avoid dehydration.  Would you like to video or text chat with me?         
+

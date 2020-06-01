@@ -1,0 +1,12 @@
+id=270
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Buen día doctor (a) tengo una duda :si dos hombres homosexuales tienen relaciones sexuales sin protección pero estos tienen una relación mutuamente monogama y ninguno de las dos personas está infectado de VIH¿Pueden contraer VIH?
+
+Dialogue
+Patient:
+Buen día doctor (a) tengo una duda :si dos hombres homosexuales tienen relaciones sexuales sin protección pero estos tienen una relación mutuamente monogama y ninguno de las dos personas está infectado de VIH¿Pueden contraer VIH?
+Doctor:
+In brief:   TRANSMISIÓN VIH   Solamente ciertos líquidos corporales —la sangre, el semen, el líquido preseminal, las secreciones rectales etc — de una persona que tiene el VIH pueden transmitir el virus.    Si ambos tienen la certeza con una prueba confirmatoria de que no están infectados y son monogamos no tienen por qué contraerlo. Sin embargo tener relaciones sexuales sin protección pueden contraer otro ETS  Would you like to video or text chat with me?         
+

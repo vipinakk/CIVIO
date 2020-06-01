@@ -1,0 +1,12 @@
+id=336
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I work in a call center and one of my agents tested positive for Covid-19, sent her home Wednesday to get tested and yesterday they came back positive?
+
+Dialogue
+Patient:
+I work in a call center and one of my agents tested positive for Covid-19, sent her home Wednesday to get tested and yesterday they came back positive?
+Doctor:
+CoVid. https://www.healthtap.com/blog/covid-19-care-guidelines/resources-for-managing-covid-19https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide.
+

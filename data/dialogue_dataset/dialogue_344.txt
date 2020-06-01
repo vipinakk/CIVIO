@@ -1,0 +1,12 @@
+id=343
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have been exposed to someone with covid Do I qualify for a test at a laboratory?
+
+Dialogue
+Patient:
+I have been exposed to someone with covid Do I qualify for a test at a laboratory?
+Doctor:
+In brief:   Testing   If asymptomatic testing unlikely to be done.    The following guide should help: https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19-for-seniors  Would you like to video or text chat with me?         
+

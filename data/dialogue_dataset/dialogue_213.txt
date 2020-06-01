@@ -1,0 +1,12 @@
+id=212
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have type 1 diabetes that I try hard to control, but I struggle with. Are my chances high for poor outcomes with the virus? I’m in such a panic about it.
+
+Dialogue
+Patient:
+I have type 1 diabetes that I try hard to control, but I struggle with. Are my chances high for poor outcomes with the virus? I’m in such a panic about it.
+Doctor:
+Depends-all factors. Type I diabetics can be more fragile when they have any type of infection unfortunately. If you are younger & do not smoke & do not have other chronic problems, your increased risk may be minimal.  Eating balanced diet, keeping glucose controlled, getting adequate exercise (including fresh air outdoors), & adequate sleep all should help protect you from severe consequences, but be very careful ! .
+

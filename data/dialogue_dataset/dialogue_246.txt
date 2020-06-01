@@ -1,0 +1,12 @@
+id=245
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My 2 year old has a small fever and is vomiting. I'm worried about her. Are these symptoms of the Coronavirus?
+
+Dialogue
+Patient:
+My 2 year old has a small fever and is vomiting. I'm worried about her. Are these symptoms of the Coronavirus?
+Doctor:
+Probably not. much more important is what her exposure is to anyone who has COVID19 or traveler from a highly infected area.fever >100.4F and respiratory symptoms are more common with COVID 19 than vomiting.
+

@@ -1,0 +1,12 @@
+id=593
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Possible COVID-19 - mild symptoms - Next steps? Symptoms: - Initially: tight chest, stuffy nose - 10% difficulty breathing - Mildly feverish (hot and dry mouth, bit weak) for a few hours yesterday - Mostly fine this morning (5% breathing difficulty)
+
+Dialogue
+Patient:
+Possible COVID-19 - mild symptoms - Next steps? Symptoms: - Initially: tight chest, stuffy nose - 10% difficulty breathing - Mildly feverish (hot and dry mouth, bit weak) for a few hours yesterday - Mostly fine this morning (5% breathing difficulty)
+Doctor:
+May confirm with 
+

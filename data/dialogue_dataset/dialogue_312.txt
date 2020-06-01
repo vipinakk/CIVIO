@@ -1,0 +1,12 @@
+id=311
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If everyone is running low on facemasks, what else can I use to protect myself from the coronavirus?
+
+Dialogue
+Patient:
+If everyone is running low on facemasks, what else can I use to protect myself from the coronavirus?
+Doctor:
+They don't . Unless you are using high end medical or industrial masks they do not protect you from any such virus. They prevent your cough or expired air from infecting others. Any scarf/fabric homemade mask or similar device will do the same. You protect yourself more by washing your hands often & not touching your face/mouth/nose with contaminated fingers.
+

@@ -1,0 +1,12 @@
+id=328
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have sinusitis but only show symptoms when the weather changes or I move to a new environment. Lately I have experienced sinus irritation, a slight cough and a dry throat. These come and go. Should I be worried and go test for Covid 19?
+
+Dialogue
+Patient:
+I have sinusitis but only show symptoms when the weather changes or I move to a new environment. Lately I have experienced sinus irritation, a slight cough and a dry throat. These come and go. Should I be worried and go test for Covid 19?
+Doctor:
+Depend. Hello.High risk population for covid-19 are people more than 60 years old or with pre-existing condition like heart or lung disease.If you feel you have the flue stay home for your own good and the whole community. Unless you feel shortness of breath or don't go to medical services.
+

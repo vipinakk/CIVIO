@@ -1,0 +1,12 @@
+id=391
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I would like to know is the coronavirus one virus or mixed with other viruses as I been told by someone?
+
+Dialogue
+Patient:
+Hi, I would like to know is the coronavirus one virus or mixed with other viruses as I been told by someone?
+Doctor:
+No. coronavirus is the name of a family of viruses, but each one can cause disease.coronavirus COVID-19 is one specific virus linked to the present pandemic, not a mixture of viruses.
+

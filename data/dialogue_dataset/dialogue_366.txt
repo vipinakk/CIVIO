@@ -1,0 +1,12 @@
+id=365
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have pure pressures head aches and coughing persistent ?
+
+Dialogue
+Patient:
+I have pure pressures head aches and coughing persistent ?
+Doctor:
+In brief:   If it's just from...   If cough and headache are just from a mild cold, then the over-the-counter cold medicines are what people usually try.   However, some illnesses such as strep throat, the flu, or pandemic coronavirus also have these same symptoms, but need evaluation. It is best to contact one's primary care doctor by video or phone first during this pandemic. For emergencies, call the local emergency #).  (3/24/20)  Would you like to video or text chat with me?         
+

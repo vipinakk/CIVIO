@@ -1,0 +1,12 @@
+id=305
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a snotty nose and a bit of a cough, nothing bad, no temperature and do not feel sick in anyway. I am at home can I just continue to use antihistamine until it passes. I have not been in contact with anyone with corona and have not traveled.?
+
+Dialogue
+Patient:
+I have a snotty nose and a bit of a cough, nothing bad, no temperature and do not feel sick in anyway. I am at home can I just continue to use antihistamine until it passes. I have not been in contact with anyone with corona and have not traveled.?
+Doctor:
+Well done. YOu are a star level headed, keep going at home and support everyone over your well sterilised phone. ;)
+

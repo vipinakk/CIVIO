@@ -1,0 +1,12 @@
+id=268
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My 18 month old woke up from her nap this afternoon sounding hoarse. Is this reason for alarm given the current Corona situation?
+
+Dialogue
+Patient:
+My 18 month old woke up from her nap this afternoon sounding hoarse. Is this reason for alarm given the current Corona situation?
+Doctor:
+In brief:   No    Kids are very resilient and the best fighters of this.   Stay home and stay safe. People spread this virus. Your baby will be fine, I don't think hoarseness is corona at all :) keep asking questions as you need to  Would you like to video or text chat with me?         
+

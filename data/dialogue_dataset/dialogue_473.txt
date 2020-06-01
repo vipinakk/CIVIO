@@ -1,0 +1,12 @@
+id=472
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+does a virus cause lesions dry and oily nose
+
+Dialogue
+Patient:
+does a virus cause lesions dry and oily nose
+Doctor:
+In brief:   Usually not   more likely to cause runny nose increase moist discharge  Would you like to video or text chat with me?        
+

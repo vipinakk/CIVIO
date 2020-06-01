@@ -1,0 +1,12 @@
+id=560
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi. This COVID-19 outbreak is scary. I got screened this week and it was negative. But prior to screening I had a week of continuous dry coughs and also throat was sore. I've put myself in a quarantine. What next? Do I still need to screen again?
+
+Dialogue
+Patient:
+Hi. This COVID-19 outbreak is scary. I got screened this week and it was negative. But prior to screening I had a week of continuous dry coughs and also throat was sore. I've put myself in a quarantine. What next? Do I still need to screen again?
+Doctor:
+Screening test if. If you develop symptoms of dry cough, fever and/or shortness of breath, consider re testing since the test may convert to a positive test if infected. Other causes should be considered including an allergic reaction. Try one dose of an antihistamine and gauge improvement. Stay at home for three days if there is no fever. .
+

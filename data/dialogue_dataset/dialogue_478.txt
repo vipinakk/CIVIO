@@ -1,0 +1,12 @@
+id=477
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can a person with type 1 diabetes ever just get mild symptoms of coronavirus, or will it always be fatal?
+
+Dialogue
+Patient:
+Can a person with type 1 diabetes ever just get mild symptoms of coronavirus, or will it always be fatal?
+Doctor:
+In brief:   Death   At 38 your risk of death from the virus is low.    If you diabetes is controlled you should not have particularly higher risk. Poorly controlled diabetes would make a difference.   Would you like to video or text chat with me?         
+

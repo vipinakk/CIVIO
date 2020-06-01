@@ -1,0 +1,12 @@
+id=297
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will my  mask from Sherwin Williams paint store with filters protect me from corona virus along with paint fumes?
+
+Dialogue
+Patient:
+Will my  mask from Sherwin Williams paint store with filters protect me from corona virus along with paint fumes?
+Doctor:
+In brief:   Maybe   Such a mask helps protect others from any respiratory material you exhale or cough but does not filter out the virus.   Only high end medical & industrial masks (P95/N95)would filter that. Your best protection is frequent hand washing and not touching your face/mouth/nose with contaminated fingers.,  Would you like to video or text chat with me?         
+

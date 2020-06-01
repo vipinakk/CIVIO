@@ -1,0 +1,12 @@
+id=209
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will coronavirus make my kids more susceptible to catching the flu? Should all kids be vaccinated against the flu in case they catch COVID-19?
+
+Dialogue
+Patient:
+Will coronavirus make my kids more susceptible to catching the flu? Should all kids be vaccinated against the flu in case they catch COVID-19?
+Doctor:
+In brief:   It may help.   Coronavirus infections may make individuals more susceptible to catching other viral or bacterial infections, esp.   if there are underlying respiratory conditions such as asthma or COPD, cardiac conditions or immunocompromised states. Flu vaccines may afford a certain level of protection to kids, but they do not protect against all strains of the influenza virus.   Would you like to video or text chat with me?         
+

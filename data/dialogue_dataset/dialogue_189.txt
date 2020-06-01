@@ -1,0 +1,12 @@
+id=188
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Because I have type 1 diabetes, does that mean I can’t get the virus just mildly? Am I likely to have severe complications? Please help.
+
+Dialogue
+Patient:
+Because I have type 1 diabetes, does that mean I can’t get the virus just mildly? Am I likely to have severe complications? Please help.
+Doctor:
+Diabetes + Covid-19. Because you are a Type I diabetic it means that you are at greater risk for complications if you contract Covid-19. If you have had a sore throat for a few days that gets worse every day, and if you have a fever over 100F, call your General Physician. .
+

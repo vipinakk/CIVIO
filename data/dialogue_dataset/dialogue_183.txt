@@ -1,0 +1,12 @@
+id=182
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If Allegra use is associated with increased risk of viral infections, isn't it dangerous to take it during the coronavirus pandemic?
+
+Dialogue
+Patient:
+If Allegra use is associated with increased risk of viral infections, isn't it dangerous to take it during the coronavirus pandemic?
+Doctor:
+In brief:   Being cautious best.   Any medication that can increase the potential of viral infections should be avoided during a coronavirus outbreak such as we are seeing now.  Would you like to video or text chat with me?        
+

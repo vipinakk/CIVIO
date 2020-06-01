@@ -1,0 +1,12 @@
+id=404
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+The symptoms of COVID sound like my asthma symptoms when it flares up. So how would I know the difference?
+
+Dialogue
+Patient:
+The symptoms of COVID sound like my asthma symptoms when it flares up. So how would I know the difference?
+Doctor:
+In brief:   Fever/flu like sx   COVID-19 is typically associated with flu like symptoms, fever, dry cough and/or shortness of breath.   If your shortness of breath does not improve with Albuterol inhaler, please call your PCP right away. Stay home, rest, drink fluids, monitor your temperature and avoid environmental triggers such as smoke and dust.   Would you like to video or text chat with me?         
+

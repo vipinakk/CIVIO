@@ -1,0 +1,12 @@
+id=554
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can animal byproducts spread coronavirus? Do I have to worry about milk, eggs, or fruits?
+
+Dialogue
+Patient:
+Can animal byproducts spread coronavirus? Do I have to worry about milk, eggs, or fruits?
+Doctor:
+In brief:   No   we have no evidence of any concern with such spread.   It may be worth wiping all packages that come i nto the house with lysol wipes   Would you like to video or text chat with me?         
+

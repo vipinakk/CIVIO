@@ -1,0 +1,12 @@
+id=181
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Dry scratchy throat, very mild cough since 23 March but not improving. Traveled to Cape Town via Lanseria and CT Airports 15-20 March. Wife has sore throat, nasal congestion, lethargy & headaches since 21 March. Should we see a doctor to be assessed?
+
+Dialogue
+Patient:
+Dry scratchy throat, very mild cough since 23 March but not improving. Traveled to Cape Town via Lanseria and CT Airports 15-20 March. Wife has sore throat, nasal congestion, lethargy & headaches since 21 March. Should we see a doctor to be assessed?
+Doctor:
+In brief:   Stay home.   Stay home for at least 7 days, rest, drink fluids and monitor your temperature.   There is an overlap between flu and COVID-19 symptoms. Nasal congestion and absence of fever are not typically associated with COVID.  Would you like to video or text chat with me?         
+

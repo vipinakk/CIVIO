@@ -1,0 +1,12 @@
+id=307
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How will I know if I need to get tested for COVID 19?
+
+Dialogue
+Patient:
+How will I know if I need to get tested for COVID 19?
+Doctor:
+Virtual consult. Best to do a virtual consult, you can through this platform. TEsting is the only way to know. Self isolation is very important right now unless you need urgent medical care. .
+

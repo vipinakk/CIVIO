@@ -1,0 +1,12 @@
+id=492
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am a pregnant pharmacist working in a government hospital. I am in my third trimester. Should I take leave until my maternity leave starts due to the coronavirus pandemic? Government has not made any recommendations for pregnant healthcare workers
+
+Dialogue
+Patient:
+I am a pregnant pharmacist working in a government hospital. I am in my third trimester. Should I take leave until my maternity leave starts due to the coronavirus pandemic? Government has not made any recommendations for pregnant healthcare workers
+Doctor:
+Not a bad idea. Many pharmacists also are trying to work from home whenever possible. Your best reference going forward will be your Obs-gyn doc and based on your institution's flexibility and further government regulations either work from home, if possible, or go in maternity leave.
+

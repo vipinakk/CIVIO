@@ -1,0 +1,12 @@
+id=476
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can covid19 cause shortness of breath without a cough?
+
+Dialogue
+Patient:
+Can covid19 cause shortness of breath without a cough?
+Doctor:
+Yes. There are many causes of shortness of breath. COVID-19 may be one cause and is not necessarily associated with cough. Fever is one prominent symptom, but the absence of fever does not rule out the infection. .
+

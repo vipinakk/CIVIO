@@ -1,0 +1,12 @@
+id=447
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, Last night I just started getting fluey; my nose got really runny and it’s continued to today. I’ve also started getting a slight headache as well. With this panic about the Covid-19 should does how I feel warrant me getting tested for it?
+
+Dialogue
+Patient:
+Hi, Last night I just started getting fluey; my nose got really runny and it’s continued to today. I’ve also started getting a slight headache as well. With this panic about the Covid-19 should does how I feel warrant me getting tested for it?
+Doctor:
+No testing yet. It is likely a common cold that you have.If your symptoms get worse eg. fever Sore throat and painfull cough you can consult your doctor for an evaluation. Try rather to stay home and rest .
+

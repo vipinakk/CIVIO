@@ -1,0 +1,12 @@
+id=201
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My son is not feeling well. He has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. He had a headache last night. No fever.  Is it a common cold or must he be checked for Covid 19. Not travelled or been in contact with anyone?
+
+Dialogue
+Patient:
+My son is not feeling well. He has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. He had a headache last night. No fever.  Is it a common cold or must he be checked for Covid 19. Not travelled or been in contact with anyone?
+Doctor:
+In brief:   No not now   GEt telephonic consult via this or other forums.   Not indicated to be tested right now. Use medication you have at home to treat symptoms right now. Use this forum if symptoms change.  Would you like to video or text chat with me?         
+

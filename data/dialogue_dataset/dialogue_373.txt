@@ -1,0 +1,12 @@
+id=372
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Itchy/burning throat. No cough. Could this be corona infection?
+
+Dialogue
+Patient:
+Itchy/burning throat. No cough. Could this be corona infection?
+Doctor:
+It could be. self isolate, wash your hands, plenty of fluids and rest, if you get  a high fever or have trouble breathing call your doctor.
+

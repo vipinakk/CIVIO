@@ -1,0 +1,12 @@
+id=220
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+State officials put temp ban on all group activities & shut down nonessential businesses to curb COVID-19 spread. In light of that, would you say hosting a group yoga class in school parking lot is unwise? Neighbor is doing that & I'm concerned.
+
+Dialogue
+Patient:
+State officials put temp ban on all group activities & shut down nonessential businesses to curb COVID-19 spread. In light of that, would you say hosting a group yoga class in school parking lot is unwise? Neighbor is doing that & I'm concerned.
+Doctor:
+Delay/virtual . Virtual get togethers should be considered. Keep a distance of at least 6 feet between persons who are not in your household. .
+

@@ -1,0 +1,12 @@
+id=396
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+On an antibiotic amoxicillin 1000mg morning and night?
+
+Dialogue
+Patient:
+On an antibiotic amoxicillin 1000mg morning and night?
+Doctor:
+Need more info! Difficult to advise without more information, so seek evaluation by a doctor.  Because of covid, try to do that by phone/telemedicine.  However, seek care right away if difficulty breathing, or severe symptoms.Seek covid testing if known COVID-19 contact, or travel to high risk country, or you’ve been in facility treating people with Covid-19, or if pneumonia.Call 0800 029 999 for test.
+

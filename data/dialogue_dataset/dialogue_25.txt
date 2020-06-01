@@ -1,0 +1,14 @@
+id=24
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I read that people taking steroids for asthma are at higher risk for poor outcomes from COVID19. Does this include inhalers containing steroids? Also, is mild intermittent asthma a risk for poor outcomes or only more severe forms of asthma? Thanks
+
+Dialogue
+Patient:
+I read that people taking steroids for asthma are at higher risk for poor outcomes from COVID19. Does this include inhalers containing steroids? Also, is mild intermittent asthma a risk for poor outcomes or only more severe forms of asthma? Thanks
+Doctor:
+In brief: Not quite that way
+People with chronic lung problems do worse in a lung disease outbreak.
+For one specific person... well, there's no way to guess. "People" in general do worse if they have UNcontrolled lung disease. That means it's likely that asthmatics using inhaled steroids to give them good disease control will be BETTER OFF than asthmatics who use steroids but still cannot get good control. Be in good control.
+

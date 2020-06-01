@@ -1,0 +1,12 @@
+id=255
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Having type 1 diabetes, doesn’t mean you have low immunity does it? So what is it about it, that makes us more at risk with the virus?
+
+Dialogue
+Patient:
+Having type 1 diabetes, doesn’t mean you have low immunity does it? So what is it about it, that makes us more at risk with the virus?
+Doctor:
+In brief:   Diabetes   Type 1 diabetes may be an autoimmune disorder, but if well controlled one's immunity and ability to handle infections should be ok.   Poorly controlled diabetics, especially with complications of kidney disease and vascular disorders, degrees of dehydration and poor tissue status are at risk for infections partly because the skin barrier to pathogens is impaired. In my experience most type 1's do ok  Would you like to video or text chat with me?         
+

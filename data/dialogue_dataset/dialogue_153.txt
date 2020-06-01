@@ -1,0 +1,12 @@
+id=152
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-bronchitis-and-pneumonia/1509059
+
+Description
+Suggest treatment for bronchitis and pneumonia
+
+Dialogue
+Patient:
+My husband passed away in March after a short illness his doctor said was bronchitis then pneumonia. He was diagnosed wit small cell lung cancer after an ex-ray revealed a mass in his lung. He was a 22 year Veteran in the Army. He also was a smoker. Can you tell me hat causes Small Cell Lung Cancer? He was 66.
+Doctor:
+Thanks for your question on Healthcare Magic. I can understand your concern. Small cell lung cancer is commonly caused by cigarette smoking. Actually cigarette smoke causes irritation to lung mucosa. Chronic irritation causes structural and genetic changes which leads to malignant nodule. This nodule grows with time and forms mass like lesion. Hope I have solved your query. I will be happy to help you further. Thanks.
+

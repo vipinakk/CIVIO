@@ -1,0 +1,12 @@
+id=329
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I just came back from London last week travelling with my family and I have a cough and a sore throat. Should I test myself for Covid 19? None of my family members have any symptoms as yet? Thank you
+
+Dialogue
+Patient:
+I just came back from London last week travelling with my family and I have a cough and a sore throat. Should I test myself for Covid 19? None of my family members have any symptoms as yet? Thank you
+Doctor:
+Covid. Top symptoms for COVID include fever, dry cough and SOB.  Actually sore throat not so common. Follow this guideline:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19.
+

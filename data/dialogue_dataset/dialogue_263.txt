@@ -1,0 +1,12 @@
+id=262
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I hear covid 19 virus dies around 27C. Does it mean once temperature outside rises above 27 C all covid 19 viruses outside will be dead?
+
+Dialogue
+Patient:
+I hear covid 19 virus dies around 27C. Does it mean once temperature outside rises above 27 C all covid 19 viruses outside will be dead?
+Doctor:
+Not as fragile. as one might hope.     -80 C does not kill it                                        +56 C does kill it.
+

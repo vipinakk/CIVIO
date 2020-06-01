@@ -1,0 +1,12 @@
+id=189
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If one has been in contact with a COVID-19 positive person in the last 12-day, but am asymptomatic, what should one do to confirm if the virus has been or not contracted? Don’t think it is responsible to wait till symptoms manifest
+
+Dialogue
+Patient:
+If one has been in contact with a COVID-19 positive person in the last 12-day, but am asymptomatic, what should one do to confirm if the virus has been or not contracted? Don’t think it is responsible to wait till symptoms manifest
+Doctor:
+Isolate. No symptoms no test. You really do not need testing if there are no symptoms, but act like  you are contagious. avoid contact with people for 14 days and only consult your GP if get symptoms.
+

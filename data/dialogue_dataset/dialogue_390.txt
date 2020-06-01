@@ -1,0 +1,12 @@
+id=389
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is my wife is at huge risk of getting the virus, as she is a nurse in a GP surgery? I’m so scared for her. I’m scared she will get it, and we will both end up with it.
+
+Dialogue
+Patient:
+Is my wife is at huge risk of getting the virus, as she is a nurse in a GP surgery? I’m so scared for her. I’m scared she will get it, and we will both end up with it.
+Doctor:
+Hopefully not. Your wife should know the protocol of handle COVID-19 as well as other viruses. Her institution should be providing PPE (personal protective equipment) for her to use properly.
+

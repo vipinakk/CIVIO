@@ -1,0 +1,13 @@
+id=17
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+11 year old has a cough, runny nose, headache,earache, no fever. Is this COVID-19?
+
+Dialogue
+Patient:
+11 year old has a cough, runny nose, headache,earache, no fever. Is this COVID-19?
+Doctor:
+The symptom pattern is not specific to one agent.
+It suggests a cold and ear infection. Kids have been among those least affected by Covid-19 . Only proper screening and testing could confirm or exclude this or any other agent. Parainfluenza, rhinovirus, or RSV would be more likely.
+

@@ -1,0 +1,12 @@
+id=515
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I suspect I may have contracted covid 19. I have a sharp pain in my chest as well.
+
+Dialogue
+Patient:
+I suspect I may have contracted covid 19. I have a sharp pain in my chest as well.
+Doctor:
+In brief:   Urgent Care!    You must go to an Urgent Care Center or Emergency Room as soon as possible to have an exam at which time lab tests & a chest X-ray should be ordered to help determine your diagnosis.   The sooner you are properly evaluated & treated the better! I wish you well with your health!   Would you like to video or text chat with me?         
+

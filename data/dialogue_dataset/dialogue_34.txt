@@ -1,0 +1,26 @@
+id=33
+https://www.healthcaremagic.com/questions/Can-pneumonia-cause-blood-in-urine/1604328
+
+Description
+Can pneumonia cause blood in urine?
+
+Dialogue
+Patient:
+My father recently passed over the weekend. His body was fighting an infection along with pneumonia for 1 week. During that time, he would urinate bloody urine into the foley. The doctors said that was completely normal. It was very dark red. Is that normal?
+Doctor:
+Hello,
+ * The pneumonia does not give rise to red urine called hematuria.
+* There can be possible causes for red blood cells in the urine as
+ - uncontrolled urinary tract infection
+- kidney damage via systemic sepsis
+- abnormal clotting factors or platelet function
+- side effects of drugs
+- dehydration related
+- secondary effects of diabetes
+- others
+ * Kindly share all reports if available with you for further discussion ahead and guide in details.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Bhagyesh V. Patel, General Surgeon
+

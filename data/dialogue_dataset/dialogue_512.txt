@@ -1,0 +1,12 @@
+id=511
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi Where in Cape Town can you get tested for covid19?
+
+Dialogue
+Patient:
+Hi Where in Cape Town can you get tested for covid19?
+Doctor:
+In brief:   Covid 19 tests   You can be tested either at any of the private labs or at selected government clinics.   You need to meet the criteria for testing before it is done.  Would you like to video or text chat with me?         
+

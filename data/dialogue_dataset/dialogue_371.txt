@@ -1,0 +1,12 @@
+id=370
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If I'm not sure if I have allergies or coronavirus (or something else), should I still stay home?
+
+Dialogue
+Patient:
+If I'm not sure if I have allergies or coronavirus (or something else), should I still stay home?
+Doctor:
+In brief:   There are   many online resources to help you distinguish between the two.   But, yes it is a good idea to stay home until told otherwise.  Would you like to video or text chat with me?         
+

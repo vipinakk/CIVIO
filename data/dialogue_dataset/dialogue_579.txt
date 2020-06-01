@@ -1,0 +1,12 @@
+id=578
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Chronic sore throat for 4 months. Not strep. No fever. Bloody green phlegm for a while. Sinus congestion and pressure sometimes. Bad breath in back of throat sometimes. Maybe post nasal drip. 2 wks. Of amoxicillin didn’t help. Is this mild COVID-19?
+
+Dialogue
+Patient:
+Chronic sore throat for 4 months. Not strep. No fever. Bloody green phlegm for a while. Sinus congestion and pressure sometimes. Bad breath in back of throat sometimes. Maybe post nasal drip. 2 wks. Of amoxicillin didn’t help. Is this mild COVID-19?
+Doctor:
+Bacterial likely. Use nasal saline rinses, a nasal steroid and discuss the use of Augmentin for 10 days with your PCP. It is more likely that you have a bacterial infection. An examination of your mouth or uploaded photo to a HT virtual consultation is important. Avoid smoke and if you are a smoker, please consider a biopsy of the area. .
+

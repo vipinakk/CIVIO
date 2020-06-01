@@ -1,0 +1,12 @@
+id=15
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Am I at risk for COVID-19 in the United States?
+
+Dialogue
+Patient:
+Am I at risk for COVID-19 in the United States?
+Doctor:
+COVID infections will likely pick up over the next few weeks in US. Avoiding travel and following hand washing recommendations are probably the most important prophylactic measures.
+

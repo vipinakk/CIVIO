@@ -1,0 +1,12 @@
+id=541
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is gargling with Listerine effective against corona virus induced sore throat? Will it kill the virus? How about with mixture of warm water and salt, will this also kill virus!
+
+Dialogue
+Patient:
+Is gargling with Listerine effective against corona virus induced sore throat? Will it kill the virus? How about with mixture of warm water and salt, will this also kill virus!
+Doctor:
+Gargling. You can't be sure but it may help if you do those things as well as using zinc lozenges at the first sign of any throat discomfort and stay hydrated also. I recommend them. At least it'll do no harm.
+

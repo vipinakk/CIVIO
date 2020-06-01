@@ -1,0 +1,12 @@
+id=253
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My 22 yo son travelled by plane between Baltimore (BWI) & Rhode Island. Realistically, what are the risks of covid 19? He has no symptoms and there have not been any reported cases on his flight. I am quarantining him as best I can at home.
+
+Dialogue
+Patient:
+My 22 yo son travelled by plane between Baltimore (BWI) & Rhode Island. Realistically, what are the risks of covid 19? He has no symptoms and there have not been any reported cases on his flight. I am quarantining him as best I can at home.
+Doctor:
+Safer to quarantine. Screening procedures to identify who has COVID-19 are not very reliable and vary depending on location (city, county, state, nation) and entity type (airline boarding, border control, clinic, school, etc.). Three months into the epidemic, the safest is to self-quarantine for 14-21 days upon arrival. Reliable test for virus is via nasal swab, but there's a shortage of test kits in most places.
+

@@ -1,0 +1,12 @@
+id=416
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Where can I test on for free on a essential smart plan for COVID-19?
+
+Dialogue
+Patient:
+Where can I test on for free on a essential smart plan for COVID-19?
+Doctor:
+In brief:   Local issue   When or where testing is available is a local issue.   Your post does not reveal your location or even the country you are in. We have no access to or information about health plans or services around the world where this site can be seen. You will need to contact a local health department for such information.   Would you like to video or text chat with me?         
+

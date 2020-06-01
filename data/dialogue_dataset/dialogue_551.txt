@@ -1,0 +1,12 @@
+id=550
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi. My children and husband were at the doctor yesterday and he has now informed us he has tested positive for covid19 . He has come home to my 2 babies and mom. How long before we can go for a test?
+
+Dialogue
+Patient:
+Hi. My children and husband were at the doctor yesterday and he has now informed us he has tested positive for covid19 . He has come home to my 2 babies and mom. How long before we can go for a test?
+Doctor:
+In brief:   Incubation period   2-14 days(time from exposure to time of getting illness).  I am unclear if the doctor is positive or your husband is?You should isolate yourselves at home for 14 days.If your husband is positive,he should be in his own room and own bathroom,if possible.Testing only recommended if there are symptoms(fever or cough or shortness of breath)and then you should be tested.Good hand washing/no touching face  Would you like to video or text chat with me?         
+

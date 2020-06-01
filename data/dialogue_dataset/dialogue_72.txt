@@ -1,0 +1,12 @@
+id=71
+https://www.healthcaremagic.com/questions/What-causes-pneumonia-despite-taking-a-pneumonia-shot/1554608
+
+Description
+What causes pneumonia despite taking a pneumonia shot?
+
+Dialogue
+Patient:
+I am a 76 year old female non smoker and non drinker I drink 1 cup of decaf a day . in the past year I have had 3 or 4 bouts of pneumonia one was infiltrated just got bronchitis I have have been treated with Z pack and amoxicillin to taking blood thinners due to Atrial Fibulation. I have a pacemaker I had a pneumonia shot in 2011 .one month after taking the shot I got pneumonia. My brother who is 2 years older had the very same reaction. Our parents were very heavy smoker can this be the cause of all my problems now.
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service.I have reviewed your query and here is my advice.Pneumococcal vaccine is protective against 23 types of Streptococcus pneumonia bacteria. This bacteria is the most common organism (80% cases) for pneumonia.But there are other bacterias which can cause pneumonia. And in such cases, pneumococcal vaccine is not protective.So you and your brother might be having some other bacterial pneumonia. Second-hand smoking is also a contributing factor to your pneumonia.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+

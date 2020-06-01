@@ -1,0 +1,12 @@
+id=520
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Why does HIV RNA appear in blood earlier than its antigens and not together?
+
+Dialogue
+Patient:
+Why does HIV RNA appear in blood earlier than its antigens and not together?
+Doctor:
+Viral physiology. HIV is a virus that exists to replicate and increase its numbers, primarily, it’s just how the virus functions, prioritizes replication over other functions. I’m sure there is more complex immunologic answer from a specialist in infectious diseases.
+

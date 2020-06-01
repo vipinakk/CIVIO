@@ -1,0 +1,12 @@
+id=507
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am an asthmatic but rarely need my inhaler and haven’t had an attack in decades however with Covid 19 I’d like to put in place some measures in case the health services get overwhelmed. What drugs can I take if inhalers don’t work?
+
+Dialogue
+Patient:
+I am an asthmatic but rarely need my inhaler and haven’t had an attack in decades however with Covid 19 I’d like to put in place some measures in case the health services get overwhelmed. What drugs can I take if inhalers don’t work?
+Doctor:
+Get meds refilled. With the COVID-19 pandemic, people with chronic conditions or even intermittent conditions should get their meds refilled in case pharmacy services close down. For asthma patients, they should refill their inhalers. Some use only an urgent "rescue" inhaler like albuterol, while others also use "preventive" inhalers like fluticasone. It's best to keep both on hand. If symptoms go bad, it's ER time.
+

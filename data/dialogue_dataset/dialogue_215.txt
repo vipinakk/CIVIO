@@ -1,0 +1,12 @@
+id=214
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Should I stay away from my family if I still have to work during the pandemic? I deliver beer to grocery stores and gas stations.. and I’ve been worried about possibly getting it and then them catching it.. since they said you can be asymptotic..
+
+Dialogue
+Patient:
+Should I stay away from my family if I still have to work during the pandemic? I deliver beer to grocery stores and gas stations.. and I’ve been worried about possibly getting it and then them catching it.. since they said you can be asymptotic..
+Doctor:
+In brief:   Difficult times.   This is a difficult question.   Many workers like you wear masks, gloves, stand 6 feet from others, take off work clothes on entering their home, wash meticulously. Read more tips from Covid19 hotlines.  Would you like to video or text chat with me?         
+

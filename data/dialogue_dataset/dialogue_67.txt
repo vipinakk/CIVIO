@@ -1,0 +1,12 @@
+id=66
+https://www.healthcaremagic.com/questions/Need-medication-for-stomach-pain-caused-due-to-pneumonia/526992
+
+Description
+Need medication for stomach pain caused due to pneumonia
+
+Dialogue
+Patient:
+My 3 year old son is complaint of stomach pain he also has fever and 1 week before he was diagnosed with pneumonia.he was on amoxicillin.he just finished his antibiotics yesterday and this morning he has fever stomach pain increased heart rate what is causing it
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service.I have reviewed your query and here is my advice.Maybe pneumonia didn't resolve. You have to change medications. Add Azithromycin, syrup Ascoril thrice and tablet Pantop D twice. Also take Mucaine gel twice. Hope I have answered your query. Let me know if I can assist you further.Regards,      Dr. Chandra Shekhar
+

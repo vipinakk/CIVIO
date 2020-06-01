@@ -1,0 +1,12 @@
+id=502
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I arrived from the Netherlands on Monday morning. No symptoms but have been around my helper. Should we get tested?
+
+Dialogue
+Patient:
+Hi, I arrived from the Netherlands on Monday morning. No symptoms but have been around my helper. Should we get tested?
+Doctor:
+Coronavirus PUI crit. Self-quarantine and monitor yourself for 14 days from return date.If symptoms develop, Please contact the NICD for screening to see if you have to get tested.Public Hotlines:+27 800029999; +27 800111132; +27 82 883 9920.
+

@@ -1,0 +1,12 @@
+id=457
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirua?
+
+Dialogue
+Patient:
+Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirua?
+Doctor:
+In brief:   Don't worry    your symptoms are unlikely related to corvid 19, and rather to change of season and smoking cessationtry to use a saline nasal spray and Otrivin nasal spray at least 4-5 times a day don't use Otrivin longer than 10 days  Would you like to video or text chat with me?         
+

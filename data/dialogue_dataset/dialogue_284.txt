@@ -1,0 +1,12 @@
+id=283
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+With a bad immunity deficiency, how can I keep as safe as possible from contracting COVID19 in a family household. Work is not an issue but shopping and accepting deliveries is. Also need to take child outsides as home is small, no garden.
+
+Dialogue
+Patient:
+With a bad immunity deficiency, how can I keep as safe as possible from contracting COVID19 in a family household. Work is not an issue but shopping and accepting deliveries is. Also need to take child outsides as home is small, no garden.
+Doctor:
+Protection. Stay at home as much as possible, clean your hands and your children hands after any contact with people, alcohol is very helpful; avoid touching your face when you are not sure your hands are clean. In crowded places, wear protection like N95 surgical mask. Playing outside is ok, but apply these measures and stay way 6 ft from any unknown health status person.
+

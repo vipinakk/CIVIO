@@ -1,0 +1,12 @@
+id=351
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I believe I might have Covid 19 symtoms. It's possible to get testing done at home to confirm? Currently I have soar throat, started last night around 19:30
+
+Dialogue
+Patient:
+I believe I might have Covid 19 symtoms. It's possible to get testing done at home to confirm? Currently I have soar throat, started last night around 19:30
+Doctor:
+No. It is currently not possible but hopefully house to house testing coming according to Cyril Ramaphosa last night. You can get tested at some clinics, safest right now is to stay at home unless you are imminently unwell. If safe and in as much isolation as possible you can be tested at lancet and ampath, due to capacity stretching they are now only testing people who fit the criteria. .
+

@@ -1,0 +1,12 @@
+id=395
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I‘ve had a dry cough for a couple weeks now, post nasal drip, runny nose, sore throat every now and then, I think I’m starting to develop a fever and I’m getting lightheaded/feeling faint when I stand and walk & slight body aches. Do I have Covid19?
+
+Dialogue
+Patient:
+I‘ve had a dry cough for a couple weeks now, post nasal drip, runny nose, sore throat every now and then, I think I’m starting to develop a fever and I’m getting lightheaded/feeling faint when I stand and walk & slight body aches. Do I have Covid19?
+Doctor:
+Hard to guess. You have some of the  symptoms of cold , flu and covid19 . Also you appear to be dehydrated. But you are young and no mention of any underlying medical condition. So, i  think you are not vulnerable.  Drink at least 6 cups of water a day. Probably need self isolation for 2 weeks and to be tested in mean time for covid19 if you develop breathing problem. Contact to your doctor for a guidance.
+

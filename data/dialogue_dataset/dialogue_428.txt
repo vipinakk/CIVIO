@@ -1,0 +1,12 @@
+id=427
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I'm told that dirrhea is a symptom of Covid 19. I have had it for 36 hours, no appetite. Do I need to be tested and where? I'm in Alberton.
+
+Dialogue
+Patient:
+I'm told that dirrhea is a symptom of Covid 19. I have had it for 36 hours, no appetite. Do I need to be tested and where? I'm in Alberton.
+Doctor:
+Diaree. No, treat the diaree with fluids and electrolytes, load with probioticsLook out for fever,( take Paracetamol) or other symptoms.
+

@@ -1,0 +1,12 @@
+id=424
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am very fearful of the Corona virus, if I have a dry cough and headache should I stay indoors and away from others?
+
+Dialogue
+Patient:
+I am very fearful of the Corona virus, if I have a dry cough and headache should I stay indoors and away from others?
+Doctor:
+In brief:   Self quarantine.   Isolate yourself and contact to your doctor by phone or via internet.   You may have flu more than corona virus. Because headache is not a common symptom of the corona virus and your age is not the age that is vulnarable to corona virus.  Would you like to video or text chat with me?         
+

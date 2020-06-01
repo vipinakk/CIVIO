@@ -1,0 +1,12 @@
+id=347
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Do I need to get tested for covid-19. Living with a person who returned from Canada 20/03. Dry throat, but do not feel sick?
+
+Dialogue
+Patient:
+Do I need to get tested for covid-19. Living with a person who returned from Canada 20/03. Dry throat, but do not feel sick?
+Doctor:
+In brief:   Hard to answer   If not ill assume you have it and behave as if you do, wear a bandanna over nose and mouth and if you have access to testing then do it.   If not stay home and boost immunity.  Would you like to video or text chat with me?         
+

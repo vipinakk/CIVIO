@@ -1,0 +1,12 @@
+id=223
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Do I need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the Coronavirus Pandemic has calmed down as I dont want to expose him unnecessarily in clinics or hospitals.
+
+Dialogue
+Patient:
+Do I need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the Coronavirus Pandemic has calmed down as I dont want to expose him unnecessarily in clinics or hospitals.
+Doctor:
+In brief:   Wait for now   Wait for now, keep talking on this platform. Stay safe.  Would you like to video or text chat with me?        
+

@@ -1,0 +1,12 @@
+id=527
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Vomiting, diarrhea, achey, dizzy and weak fever has kept rising and is now at 103.4 any advice?
+
+Dialogue
+Patient:
+Vomiting, diarrhea, achey, dizzy and weak fever has kept rising and is now at 103.4 any advice?
+Doctor:
+Infection. seem you have an infectious gastroenteritis, flu or even coronavirus. Take tylenol, stay hydrated, get tests ordered by a physician. .
+

@@ -1,0 +1,12 @@
+id=355
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I came into close contact with someone who just flown back from Australia, I have been in self isolation since he landed, am I'm not showing any symptoms (dry cough, fever, sore throat) what is the next protocol? Do I go into work?
+
+Dialogue
+Patient:
+I came into close contact with someone who just flown back from Australia, I have been in self isolation since he landed, am I'm not showing any symptoms (dry cough, fever, sore throat) what is the next protocol? Do I go into work?
+Doctor:
+No. Don't go to work you could unknowinly spread the virus. We are all effectively on lock down and the sooner the better if you THINK you have it stay home, if you ave access to testing then get tested BUT we are running out of tests (to my knowledge) if you deteriorate send a message here and I will advise. DO not go to work.
+

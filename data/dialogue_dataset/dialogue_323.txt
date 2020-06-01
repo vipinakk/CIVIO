@@ -1,0 +1,12 @@
+id=322
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Ek het loop neus met slym hoes. Moontlik allergie, hulle besig met verbouings by werk. Ek het ook hoofpyn. So bang vir die virus?
+
+Dialogue
+Patient:
+Ek het loop neus met slym hoes. Moontlik allergie, hulle besig met verbouings by werk. Ek het ook hoofpyn. So bang vir die virus?
+Doctor:
+Slim kans van Virus. As jou sluim is a gevolge van allergy die sluim is gewoonlike a bleek geel saam met ander symptome soos niesery em jikkerige neus.En daar is a noodlike kans da jy die volle allergiese gene het en dan sal jy ook lui van Asthma, Hoieoos and moontlik exzeem as a kind.Om did die "Virus" to wees waarvan jy moet bekomerd wees so jy ook 1. Hoor koors , 2. Droer hoes  3. Seer keel and 4. Erg hoofpyn he'
+

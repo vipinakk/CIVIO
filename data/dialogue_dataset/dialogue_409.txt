@@ -1,0 +1,12 @@
+id=408
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi there, I came into contact with somebody on Tuesday last week that was later that week tested positive for COVID-19. I found this out on Friday and straight away went into self quarantine. I am not showing symptoms as yet.?
+
+Dialogue
+Patient:
+Hi there, I came into contact with somebody on Tuesday last week that was later that week tested positive for COVID-19. I found this out on Friday and straight away went into self quarantine. I am not showing symptoms as yet.?
+Doctor:
+Welldone. stay there if you feel it will help you can get a test but do so safely, else continue doing the right thing.
+

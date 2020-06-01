@@ -1,0 +1,12 @@
+id=595
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have had a sore throat (glands enlarged in throat) for over a week and I have constant headache. Do I need COVID-19 test. If yes, how do a get someone to come to my house to test.
+
+Dialogue
+Patient:
+I have had a sore throat (glands enlarged in throat) for over a week and I have constant headache. Do I need COVID-19 test. If yes, how do a get someone to come to my house to test.
+Doctor:
+In brief:   Testing.   People are still getting other illnesses than COVID.    Given no cough or shortness of breath, other than watchful waiting COVID should pass in a week or two. Strep, influenza still possible. This testing can be done through your own provider. You can also get your own strep test at pharmacy or many can swab you there.   Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=368
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Should patients with COVID-19 avoid ibuprofen or RAAS antagonists?
+
+Dialogue
+Patient:
+Should patients with COVID-19 avoid ibuprofen or RAAS antagonists?
+Doctor:
+In brief:   COVID-19 and RAAS    No, according to recent statement from American Heart Association, the patients with cardiovascular disease should continue ACEI or ABR as prescribed.   WHO also doesn't recommend avoiding ibuprofen for patients with COVID-19 Symptoms, although the use of acetaminophen could be an alternative option.   Would you like to video or text chat with me?         
+

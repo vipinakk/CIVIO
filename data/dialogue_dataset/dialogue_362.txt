@@ -1,0 +1,12 @@
+id=361
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. I have recently quit smoking so could that be it. What should I do?
+
+Dialogue
+Patient:
+I have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. I have recently quit smoking so could that be it. What should I do?
+Doctor:
+Keep non smoking. If you have no exposure history to COVID 19, your cough is probably not infection. keep up the good work and do not smoke or vape.
+

@@ -1,0 +1,12 @@
+id=393
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I'm not sure, my temperature is 36.5, I have some chills but not significant but I yawn a lot and my breath is short, feels like I have to breath more, I'm laying down breathing through the nose is easier.
+
+Dialogue
+Patient:
+I'm not sure, my temperature is 36.5, I have some chills but not significant but I yawn a lot and my breath is short, feels like I have to breath more, I'm laying down breathing through the nose is easier.
+Doctor:
+Seek evaluation. Difficult to advise without more information, so seek evaluation by a doctor.  Because of covid, try to do that by phone/telemedicine.  However, seek in person care right away if breathing distress, or severe symptoms.Seek covid testing if known covid-19 contact, or travel to high risk country, or you’ve been in facility treating people with Covid-19, or if pneumonia.Call 0800 029 999 for test.
+

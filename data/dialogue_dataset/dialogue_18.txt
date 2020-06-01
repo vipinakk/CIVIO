@@ -1,0 +1,14 @@
+id=18
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am getting headache at night. Been battling with a sore throat and post nasal drip. No fever. Cough only slightly at times. I went for laproscope and removal of my fallopian tubes on 2nd March. All this started after that. Must i test for covid 1o?
+
+Dialogue
+Patient:
+I am getting headache at night. Been battling with a sore throat and post nasal drip. No fever. Cough only slightly at times. I went for laproscope and removal of my fallopian tubes on 2nd March. All this started after that. Must i test for covid 1o?
+Doctor:
+In brief: Unlikely
+Not at this point.
+Treat what you have currently symptomatically. Stock up now whilst not yet on lockdown. I don't feel that you qualify for a Covid test right now. Keep posting your questions.
+

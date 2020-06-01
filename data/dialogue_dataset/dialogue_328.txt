@@ -1,0 +1,12 @@
+id=327
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a wet cough. Stuffy nose and sometimes get a headache. I took my temperature and it is normal but my cough is starting to get worse. Painful. Someone sneezed right next to me on 14 March.?
+
+Dialogue
+Patient:
+I have a wet cough. Stuffy nose and sometimes get a headache. I took my temperature and it is normal but my cough is starting to get worse. Painful. Someone sneezed right next to me on 14 March.?
+Doctor:
+Symptoms. So you are worried that you might have Covid-19. You may also have common cold or influenza. Call hour General Physician. Report your symptoms. They will direct you to proper care.
+

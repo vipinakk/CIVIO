@@ -1,0 +1,12 @@
+id=248
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If I live in close quarters with people who have recently traveled from Europe, should I stay away from them in order to lower the risk of catching coronavirus?
+
+Dialogue
+Patient:
+If I live in close quarters with people who have recently traveled from Europe, should I stay away from them in order to lower the risk of catching coronavirus?
+Doctor:
+Absolutely. Good morningWithout being rude, you are quite right to stay well away. Also be stringent about hand washing, sanitizing and avoiding contact with your face and other people. Monitor any symptoms.
+

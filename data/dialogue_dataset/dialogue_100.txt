@@ -1,0 +1,12 @@
+id=99
+https://www.healthcaremagic.com/questions/Are-cough-and-sore-throat-symptoms-of-pneumonia/545930
+
+Description
+Are cough and sore throat symptoms of pneumonia?
+
+Dialogue
+Patient:
+I was swimming in a pool on 2/15 and I slipped and went under the water unexpectedly and I wound up choking quite badly on some water.  I couldn't catch my breath and I felt like I had water in my lung that I couldn't expel with coughing.  Yesterday I began having a hacking cough and a sore throat (fells like my throats on fire).  Today I feel even worse, my cough is worse and sounds more "cruddy" and my throat still hurts, my head is pounding and my body is starting to ache.  Could I be developing aspiration pneumonia?
+Doctor:
+HelloIf the situation has been very short under the water i do not think it might be aspiration pneumonia.RegardsDr.Jolanda
+

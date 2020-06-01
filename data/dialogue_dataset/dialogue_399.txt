@@ -1,0 +1,12 @@
+id=398
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If one get corona and you are self isolating and it is not severe, is there any meds that one can take?
+
+Dialogue
+Patient:
+If one get corona and you are self isolating and it is not severe, is there any meds that one can take?
+Doctor:
+In brief:   Not really     keep immunity up, keep mental health strong, no specific meds at this point in time  Would you like to video or text chat with me?         
+

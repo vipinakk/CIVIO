@@ -1,0 +1,12 @@
+id=563
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have had mild chest pain for over a week. it now seems more persistent and pronounced. I don't have shortness of breath or any other COVID-19 symptoms, except some fatigue. I have been traveling a lot in high risk areas. Should I get tested?
+
+Dialogue
+Patient:
+I have had mild chest pain for over a week. it now seems more persistent and pronounced. I don't have shortness of breath or any other COVID-19 symptoms, except some fatigue. I have been traveling a lot in high risk areas. Should I get tested?
+Doctor:
+In brief:   Yes   I would advise screening due to your exposure.   Fever is very commonly associated with COVID-19. Stay at home, rest, drink fluids and monitor your temperature. Arrange the testing which also  may include a chest image with your PCP.  Since your have been traveling, a pulmonary embolism is another possible cause of your shortness of breath.   Would you like to video or text chat with me?         
+

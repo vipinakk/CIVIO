@@ -1,0 +1,12 @@
+id=231
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What is the best way to quarantine my 22yr old son who travelled by plane recently, has no current symptoms, when in same household as myself and teenaged son?
+
+Dialogue
+Patient:
+What is the best way to quarantine my 22yr old son who travelled by plane recently, has no current symptoms, when in same household as myself and teenaged son?
+Doctor:
+Read our blog post. Household members should stay in another room or be separated from the quarantined as much as possible. They should use a separate bedroom and bathroom, if available. Prohibit visitors to the home. You and the quarantined should each wear a face mask if you are in the same room. (3/26/20)  Read  https://www.healthtap.com/blog/post/caregiver-guide-for-COVID19-spouses-partners-contacts.
+

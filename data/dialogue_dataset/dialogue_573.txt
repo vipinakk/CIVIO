@@ -1,0 +1,12 @@
+id=572
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I've been in contact with a possible covid-19 case who is waiting on results. My brother seems to be I'll with Corona symptoms and I'd like to get advice on how to help him, as his safety will ensure my safety and prevent the spread of the virus.
+
+Dialogue
+Patient:
+I've been in contact with a possible covid-19 case who is waiting on results. My brother seems to be I'll with Corona symptoms and I'd like to get advice on how to help him, as his safety will ensure my safety and prevent the spread of the virus.
+Doctor:
+Stay home. Family members should stay home and avoid contact with your brother. Keep linens, bath area and utensils separated. He should monitor his temperature, drink fluids, rest and your family should be screened for Coronavirus.
+

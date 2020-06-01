@@ -1,0 +1,12 @@
+id=383
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have diarrhea and am concerned about covid 19. I read some cases with higher mortality rate started with diarrhea. What should I do? Coronavirus and diarrhea
+
+Dialogue
+Patient:
+I have diarrhea and am concerned about covid 19. I read some cases with higher mortality rate started with diarrhea. What should I do? Coronavirus and diarrhea
+Doctor:
+It depends... Due to limited availability of covid testing, you probably wouldn’t meet criteria for testing, unless you develop fever or cough, and you have chronic health problems or have been possibly exposed to covid.Seek care right away if difficulty breathing or severe symptoms.Seek online or phone consultation otherwise, to avoid exposure.Ultimately, patients who need treatment will have lung symptoms.
+

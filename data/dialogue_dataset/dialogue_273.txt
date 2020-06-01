@@ -1,0 +1,12 @@
+id=272
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What is my risk of dying from coronavirus, as I have type 1 diabetes?
+
+Dialogue
+Patient:
+What is my risk of dying from coronavirus, as I have type 1 diabetes?
+Doctor:
+Not well stablished. For now, it is known that having chronic disease, including diabetes (not specified type), increases the risk of death. However, the outbreak is so new that evidence is not enough robust to give a number yet. Anyway, It is recommendable to assume that you are at higher risk and strict protection should be taken.
+

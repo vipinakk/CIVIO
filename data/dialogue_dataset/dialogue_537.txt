@@ -1,0 +1,12 @@
+id=536
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I’m petrified of dying from coronavirus, because of my diabetes, but don’t know what I can do?
+
+Dialogue
+Patient:
+I’m petrified of dying from coronavirus, because of my diabetes, but don’t know what I can do?
+Doctor:
+Isolation. . The virus is spread by respiratory route,  it can live on surfaces for up,to 72 hours. SO:Social isolation (keep 6 feet from others)Wear disposable,gloves when coming in contact with surfaces outside your home for several weeksStay healthy, eat right, get exercise, proper sleepDiscuss your fears with others to get a realistic view of this illness and it’s risks.Don’t panic..
+

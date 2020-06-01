@@ -1,0 +1,12 @@
+id=436
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have these symptoms and wondering if I should do a covid test Diarrhea nausea Weakness /fatigue Shortness of breath Joint n muscle pains Pressure in The chest Dizziness Sweating / and chills I don't have fever but breathing is concerning me most?
+
+Dialogue
+Patient:
+I have these symptoms and wondering if I should do a covid test Diarrhea nausea Weakness /fatigue Shortness of breath Joint n muscle pains Pressure in The chest Dizziness Sweating / and chills I don't have fever but breathing is concerning me most?
+Doctor:
+Test if you can. if you have access test, or consult telephonically don't go to a public space.
+

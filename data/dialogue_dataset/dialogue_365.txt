@@ -1,0 +1,12 @@
+id=364
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can you contact coronavirus or any virus from the air? Also, from talking to someone from a distance of beyond 6 feet. Any info on airborne facts?
+
+Dialogue
+Patient:
+Can you contact coronavirus or any virus from the air? Also, from talking to someone from a distance of beyond 6 feet. Any info on airborne facts?
+Doctor:
+COVID 19 is airborne. COVID 19 is primarily an airborne acquired infection. the number of potentially infected viruses dissipate by 6 feet.
+

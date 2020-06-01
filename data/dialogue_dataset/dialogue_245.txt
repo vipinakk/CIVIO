@@ -1,0 +1,12 @@
+id=244
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Coronavirus how do we test?
+
+Dialogue
+Patient:
+Coronavirus how do we test?
+Doctor:
+In brief:   Lab if necessary   Most commercial labs such as Lancet, Ampath and Pathcare can test.   But the labs are stretched and test kits in short supply. Only tests if:You have symptoms that are not resolvingYou have been in contact with someone diagnosed with COVID-19You have traveled from a high risk area  Would you like to video or text chat with me?         
+

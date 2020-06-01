@@ -1,0 +1,12 @@
+id=462
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have diarrhea and I read that it could be a precursor to having COVID-19. I was in China end of September 2020. So more than 6 weeks back. ?
+
+Dialogue
+Patient:
+I have diarrhea and I read that it could be a precursor to having COVID-19. I was in China end of September 2020. So more than 6 weeks back. ?
+Doctor:
+In brief:   IF    that is all you have by now you don't have the chinese virus.  Would you like to video or text chat with me?        
+

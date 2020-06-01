@@ -1,0 +1,12 @@
+id=377
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have heart valve disease (leaky heart due to rheumatic fever as a child). Never had any symptoms or complications, However, am I at high risk for death due to coronavirus and what can I take before or during early symptoms of the virus?
+
+Dialogue
+Patient:
+I have heart valve disease (leaky heart due to rheumatic fever as a child). Never had any symptoms or complications, However, am I at high risk for death due to coronavirus and what can I take before or during early symptoms of the virus?
+Doctor:
+RHD. If your rheumatic heart disease hasn't caused weakness of the heart muscle or cardiac arrhythmia it shouldn't predispose you to more complications than anyone else in good health. Keep your resistance and immune system high by avoiding fatigue, dehydration, excessive stress, poor nutrition and exposure to ill people. Practice social distancing. At sign of sore throat gargle with warm salt water .
+

@@ -1,0 +1,12 @@
+id=191
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Do I have covid 19?
+
+Dialogue
+Patient:
+Do I have covid 19?
+Doctor:
+In brief:   Unknown   Without any details it's impossible to say.  Would you like to video or text chat with me?        
+

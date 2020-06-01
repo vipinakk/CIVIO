@@ -1,0 +1,16 @@
+id=35
+https://www.healthcaremagic.com/questions/Suggest-the-best-home-remedy-for-pneumonia/1604820
+
+Description
+Suggest the best home remedy for pneumonia
+
+Dialogue
+Patient:
+Hi, my name is XXXX. My grandfather is suffering from pneumonia right now and refuses to go to the doctor because of the price needed to obtain a patented medicine. In Indonesia, it is not hard to find these kinds of doctors that don t want to help people in need. What medicine can you guys recommend for a home treatment?
+Doctor:
+Hello,
+ As you explain the situation, unfortunately, there is no home treatment for pneumonia. I strongly recommend you to go to the hospital as an emergency which is free mostly.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+

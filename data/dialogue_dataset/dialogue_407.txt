@@ -1,0 +1,12 @@
+id=406
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a sour throat. I travelled to Joburg on 8 March and sat next to a passenger with a face mask and had a running stomach. I now suspect corona infection?
+
+Dialogue
+Patient:
+I have a sour throat. I travelled to Joburg on 8 March and sat next to a passenger with a face mask and had a running stomach. I now suspect corona infection?
+Doctor:
+? test. Do you have access to testing? If so perhaps do a telephonic consult ? and get tested and self isolate ? Usually anosmia - loss of smell is an early warning sign but close contact to someone who is positive it's highly contagious.
+

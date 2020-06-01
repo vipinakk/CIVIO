@@ -1,0 +1,12 @@
+id=357
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I was confirmed to have covid-19, I self-isolated for 14 days. My concern is with my 1 year 6 months son Nabi who has been caughing. ?
+
+Dialogue
+Patient:
+I was confirmed to have covid-19, I self-isolated for 14 days. My concern is with my 1 year 6 months son Nabi who has been caughing. ?
+Doctor:
+In brief:   Keep isolated   The baby very likely has the infection.    However, the data are very reassuring on children less than 10 year old.  I am certain there has been no deaths recorded. Treat as you would if the baby had a cold.  Follow the following isolation guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  I think you will find this improving in a few days.   Would you like to video or text chat with me?         
+

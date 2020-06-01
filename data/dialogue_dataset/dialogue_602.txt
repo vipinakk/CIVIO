@@ -1,0 +1,12 @@
+id=601
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My son has a fever, I am concerned due to the coronavirus ?
+
+Dialogue
+Patient:
+My son has a fever, I am concerned due to the coronavirus ?
+Doctor:
+In brief:   Covid-19 unlikely.   The usual infections in your area of Kwa Zulu Natal are more likely to be the cause of his fever. If he is exposed to someone who is sick with Covid-19, then you need to be concerned.   Meanwhile, treat him as you would have treated him 2 months ago.  If he has shortness of breath or any form of difficulty breathing, get him to a doctor ASAP  Would you like to video or text chat with me?         
+

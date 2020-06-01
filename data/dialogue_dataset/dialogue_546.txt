@@ -1,0 +1,12 @@
+id=545
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I travelled to Mauritius and do not have symptoms. Should I get tested for covid19?
+
+Dialogue
+Patient:
+I travelled to Mauritius and do not have symptoms. Should I get tested for covid19?
+Doctor:
+Self Quarantine . Suggest Self Quarantine for 14 days . If symptomatic , contact your Primary Care Physician or use this platform.
+

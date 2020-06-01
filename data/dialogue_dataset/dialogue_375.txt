@@ -1,0 +1,12 @@
+id=374
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a 2 years old with cough n fever sweating which is worse at night, can she b tested for covid19?
+
+Dialogue
+Patient:
+I have a 2 years old with cough n fever sweating which is worse at night, can she b tested for covid19?
+Doctor:
+In brief:   Yes   call your doctor for advise.  Would you like to video or text chat with me?        
+

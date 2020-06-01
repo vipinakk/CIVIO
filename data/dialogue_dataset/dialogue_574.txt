@@ -1,0 +1,12 @@
+id=573
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have mild irritation in my chest but I am not coughing, I just feel a tingling sensation on my thought. I have no fever, no aches should I be worried about COVID 19?
+
+Dialogue
+Patient:
+I have mild irritation in my chest but I am not coughing, I just feel a tingling sensation on my thought. I have no fever, no aches should I be worried about COVID 19?
+Doctor:
+Probably. We should all be cautious , not worried about Covid-19. It is prudent for us all to be socially isolating, washing our hands, supplementing with vits. D and C and working on making the best of it.  BE grateful for the things that are going well in your life, reach out with verbal and video support for ALL the loved ones and even people you just know are isolated with support. Don't bother to worry.
+

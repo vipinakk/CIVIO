@@ -1,0 +1,12 @@
+id=100
+https://www.healthcaremagic.com/questions/What-causes-short-temperedness-and-headache-while-on-treatment-for-pneumonia/639382
+
+Description
+What causes short temperedness and headache while on treatment for pneumonia?
+
+Dialogue
+Patient:
+I have pneumonia and I am on Levaquin with one day left on my cycle but i feel really crappy, tired, short tempered, headache, and my temperature is 97 do I have anything to worry about? Before taking the Levaquin my temperature was around 102.4 and normal for me is 98.6 on the money.
+Doctor:
+really crappy, tired, short tempered, headache are beacause of fever low grade and also pneumonia, evaluate yourself by CURB 65 score and pneumonia severity index and get you answer
+

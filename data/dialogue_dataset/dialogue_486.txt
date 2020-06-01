@@ -1,0 +1,12 @@
+id=485
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am concerned that I’m showing symptoms of corona. I have a tight chest, regular headaches, fever, and infrequent coughing and sneezing. My throat is also sore. I’ve also been in the vicinity of someone who has tested positively for the virus.  ?
+
+Dialogue
+Patient:
+I am concerned that I’m showing symptoms of corona. I have a tight chest, regular headaches, fever, and infrequent coughing and sneezing. My throat is also sore. I’ve also been in the vicinity of someone who has tested positively for the virus.  ?
+Doctor:
+In brief:   Test   Please stay at home, rest, drink fluids and monitor your temperature.   Arrange for testing locally.You may need respiratory treatments, and additional testing for influenza and Strep A. Please contact your PCP for additional or worsening symptoms.   Would you like to video or text chat with me?         
+

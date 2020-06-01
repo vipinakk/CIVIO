@@ -1,0 +1,12 @@
+id=546
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a dry cough and a sore throat. I do not have a fever and a slight headache (could be I need more water) I am 4 months pregnant and not sure If I should be tested for Corona?
+
+Dialogue
+Patient:
+I have a dry cough and a sore throat. I do not have a fever and a slight headache (could be I need more water) I am 4 months pregnant and not sure If I should be tested for Corona?
+Doctor:
+Socially isolate. get pleanty of fluids and rest and avoid others call dr if fever or difficulty breathing.
+

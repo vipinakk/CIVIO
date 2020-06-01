@@ -1,0 +1,12 @@
+id=422
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi ,  Can I use Oralcon birth control pills even though we have the coronavirus epademic ?
+
+Dialogue
+Patient:
+Hi ,  Can I use Oralcon birth control pills even though we have the coronavirus epademic ?
+Doctor:
+In brief:   Yes   I am unaware of any contraindication to using BCP and the virus.   Would you like to video or text chat with me?        
+

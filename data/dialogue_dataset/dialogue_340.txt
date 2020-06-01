@@ -1,0 +1,12 @@
+id=339
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a sore throat and feel very tired. Should I be concerned about COVID-19?
+
+Dialogue
+Patient:
+I have a sore throat and feel very tired. Should I be concerned about COVID-19?
+Doctor:
+In brief:   Hard to say   Very hard to say.   Stay home. Stay safe. Get someone to buy you symptomatic medication and feel free to post on here again.  Would you like to video or text chat with me?         
+

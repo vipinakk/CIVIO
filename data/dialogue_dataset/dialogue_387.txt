@@ -1,0 +1,12 @@
+id=386
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I use Athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?
+
+Dialogue
+Patient:
+I use Athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?
+Doctor:
+No. I do not think it will have any effect on corona virus.
+

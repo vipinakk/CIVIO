@@ -1,0 +1,12 @@
+id=178
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How can I avoid catching COVID-19 if I have to travel by plane or public transportation?
+
+Dialogue
+Patient:
+How can I avoid catching COVID-19 if I have to travel by plane or public transportation?
+Doctor:
+In brief:   Same measures    Wear a mask, social distance as possible, try not to touch surfaces, keep hands clean.   Best would still be not to travel if possible.  Would you like to video or text chat with me?         
+

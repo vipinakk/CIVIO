@@ -1,0 +1,12 @@
+id=260
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If I leave Covid 19 infected product in fridge, will virus die or survive in the fridge?
+
+Dialogue
+Patient:
+If I leave Covid 19 infected product in fridge, will virus die or survive in the fridge?
+Doctor:
+Covid. Data from frozen food shows that there is no transfer of virus via food sources this way. .
+

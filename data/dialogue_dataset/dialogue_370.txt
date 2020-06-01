@@ -1,0 +1,12 @@
+id=369
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Should I invest in a reusable mask to protect myself from COVID-19? I know a lot of people wear those in Asian countries and they look kinda nice.
+
+Dialogue
+Patient:
+Should I invest in a reusable mask to protect myself from COVID-19? I know a lot of people wear those in Asian countries and they look kinda nice.
+Doctor:
+In brief:   Barrier protection   Most of these masks won't completely protect you from a virus, which can penetrate these materials however that does not mean they are not useful.   A mask of any sort is good if you are coughing or sneezing to limit some of the aerosols and also is better than nothing if you are out and about in a high risk situation. The chance of you catching the virus is highly dependent on lengthexposure & dos  Would you like to video or text chat with me?         
+

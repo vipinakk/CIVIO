@@ -1,0 +1,12 @@
+id=359
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I got an sms stating the following: Taking Ibuprofin/ Advil? Mypaid/ myprodol to control fewer should stop. They also say that ibuprofen is increasing the rate of multiplication of the virus. And that we should not take these meds. How true is this?
+
+Dialogue
+Patient:
+I got an sms stating the following: Taking Ibuprofin/ Advil? Mypaid/ myprodol to control fewer should stop. They also say that ibuprofen is increasing the rate of multiplication of the virus. And that we should not take these meds. How true is this?
+Doctor:
+Hard to say. It does look like it is true. We are in an unprecedented time right now. What we know we are trying to convey. Switch to panado or napacod for now if possible.
+

@@ -1,0 +1,12 @@
+id=458
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi. I have a very tight chest but no cough. Feels like I am about to cough sometimes but no cough. Then when I stand upright it's worse. No fever. Possible exposure to covid from gibs university but not sure. Really burning sensation on my chest.
+
+Dialogue
+Patient:
+Hi. I have a very tight chest but no cough. Feels like I am about to cough sometimes but no cough. Then when I stand upright it's worse. No fever. Possible exposure to covid from gibs university but not sure. Really burning sensation on my chest.
+Doctor:
+In brief:   Consider asthma    Have you ever had asthma or wheezing? That can cause tightness & shortness of breath, as can certain heart problems.   Without fever & cough, COVID 19 is less likely, but probably best to call your Dr’s office for recommendation.  If the breathing worsens you should be seen ASSP by video visit or perhaps in person to listen to lungs & assess need for possible chest X-ray, EKG, & medication  Would you like to video or text chat with me?         
+

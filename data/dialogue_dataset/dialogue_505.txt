@@ -1,0 +1,12 @@
+id=504
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi there, I was recently in close contact with someone who travelled overseas. The person has become ill but has not communicated whether or not they’ve been tested. Should I go and get tested for covid19?
+
+Dialogue
+Patient:
+Hi there, I was recently in close contact with someone who travelled overseas. The person has become ill but has not communicated whether or not they’ve been tested. Should I go and get tested for covid19?
+Doctor:
+In brief:   Test   Since there is a risk for coronavirus, please stay home, rest and drink fluids.   Monitor for symptoms including fever, dry cough and/or shortness of breath. Avoid contact with others and consider testing. The symptoms of COVID 19 may be very mild. Travel is one risk factor for acquiring the disease.  Would you like to video or text chat with me?         
+

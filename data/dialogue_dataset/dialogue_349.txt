@@ -1,0 +1,12 @@
+id=348
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Good day. During the lockdown will I be able to travel to my Gynae for my check up?
+
+Dialogue
+Patient:
+Good day. During the lockdown will I be able to travel to my Gynae for my check up?
+Doctor:
+In brief:   No.   Most doctors are rescheduling non-essential surgeries, procedures and visits.   You don't want to be in a doctor's office with a bunch of people who may or may not be infected with the Coronavirus.  Would you like to video or text chat with me?         
+

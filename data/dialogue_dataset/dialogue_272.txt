@@ -1,0 +1,12 @@
+id=271
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a throat problem and headache. What should I do. I strepsils original.
+
+Dialogue
+Patient:
+I have a throat problem and headache. What should I do. I strepsils original.
+Doctor:
+In brief:   May call Dr on video   Throat symptoms can be from strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees a doctor (call first) if the throat issue is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?         
+

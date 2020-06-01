@@ -1,0 +1,12 @@
+id=282
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Headache fever fatigue  Been in contact with someone with coronavirus  Do I need to be concerned ?
+
+Dialogue
+Patient:
+Headache fever fatigue  Been in contact with someone with coronavirus  Do I need to be concerned ?
+Doctor:
+In brief:   Test if you can   If you have availability get a telephonic consult and get a test.   Testing capability is stretched right now self quarantine and keep in touch on this forum for now.   Would you like to video or text chat with me?         
+

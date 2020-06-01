@@ -1,0 +1,12 @@
+id=571
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have covid 19 symptoms?
+
+Dialogue
+Patient:
+I have covid 19 symptoms?
+Doctor:
+In brief:   Can talk with doctor   Doctors can give you the up-to-date information.   Video consultations available (start over and click on Talk-to-Doctor). We have informational posts on our Healthtap.com/blog. As the US president has given mistaken information at various times during this pandemic, be sure to check with doctors and the CDC website. People usually should not be tested without symptoms or direct exposure. (3/21/20)  Would you like to video or text chat with me?         
+

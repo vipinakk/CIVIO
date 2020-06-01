@@ -1,0 +1,12 @@
+id=528
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Are children with a respiratory pathology at greater risk for Covid-19 (since there are so little cases of children getting the virus, but still their natural history could be an issue)?
+
+Dialogue
+Patient:
+Are children with a respiratory pathology at greater risk for Covid-19 (since there are so little cases of children getting the virus, but still their natural history could be an issue)?
+Doctor:
+Be very cautious . There is not a lot of information on children with COVID-19 but definitely would try to protect this child especially and consult the doctor ASAP if child develops fever and shortness of breath.
+

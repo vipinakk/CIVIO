@@ -1,0 +1,12 @@
+id=387
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Does my keycare plan cover a flu vaccine shot? And is it necessary to get a shot to help boost my immune system to fight COVID-19?
+
+Dialogue
+Patient:
+Does my keycare plan cover a flu vaccine shot? And is it necessary to get a shot to help boost my immune system to fight COVID-19?
+Doctor:
+Keycare flu vaccine. HiPlease contact your medical aid to see if meet the qualifying criteria to be covered by a flu vaccine on your plan. Usually Keycare only covers in patients that are high risk, like asthmatics, diabetes, emphysema, cardiac patients etc.The current flu vaccine does not protect you against COVID19 and will not influence you ability to respond to this infection.
+

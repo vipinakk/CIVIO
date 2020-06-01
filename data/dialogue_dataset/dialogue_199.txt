@@ -1,0 +1,12 @@
+id=198
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I've been sick for the last two weeks with severe sinus pain, hot flashes and a very tight chest along with coughing up some mucus. I've been treated with antibiotics however it doesn't feel like it has worked. Is it possible that this can be Covid-1?
+
+Dialogue
+Patient:
+I've been sick for the last two weeks with severe sinus pain, hot flashes and a very tight chest along with coughing up some mucus. I've been treated with antibiotics however it doesn't feel like it has worked. Is it possible that this can be Covid-1?
+Doctor:
+Hard to say. Is the mucous coloured or clear? Try to access health advice as you are. Stay home. It could be covid but if you are fairly asymptomatic stay home and keep asking questions on this platform. It is safer for you and others. Treat symptomatically for now. And keep asking on here.
+

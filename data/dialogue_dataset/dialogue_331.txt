@@ -1,0 +1,12 @@
+id=330
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I’ve entered my symptoms into the system & the return I got was that I have either the flu, Covid 19, or a cold. Should I seek physical medical advice?
+
+Dialogue
+Patient:
+I’ve entered my symptoms into the system & the return I got was that I have either the flu, Covid 19, or a cold. Should I seek physical medical advice?
+Doctor:
+Risk. High risk would be smoker, 60 or older and with medical conditions- heart, lung, kidney.  If you are not having significant SOB self isolation best to do and treat for flu symtpoms-rest, fluids, tylenol or ibuprofen if needed. https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide.  Tests are being reserved for those with significant symptoms. .
+

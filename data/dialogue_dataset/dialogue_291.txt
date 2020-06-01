@@ -1,0 +1,12 @@
+id=290
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What else besides a mask can I wear to protect myself from catching corona from others?
+
+Dialogue
+Patient:
+What else besides a mask can I wear to protect myself from catching corona from others?
+Doctor:
+In brief:   Distance   Staying separated by 6 feet can make a difference!  The following guideline should help!https://www.  healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19  Would you like to video or text chat with me?         
+

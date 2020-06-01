@@ -1,0 +1,12 @@
+id=215
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My hba1c isn’t within target, but I try so hard. Does that mean that I am likely to end up in hospital, or die, from coronavirus?
+
+Dialogue
+Patient:
+My hba1c isn’t within target, but I try so hard. Does that mean that I am likely to end up in hospital, or die, from coronavirus?
+Doctor:
+In brief:   Not necessarily   You need to consult an endocrinologist for advice about diet, weight control, and medication for controlling A1c.    It is not feasible to provide more useful suggestions without talking to you, performing physical examination and may be some test.Wish you good health!  Would you like to video or text chat with me?         
+

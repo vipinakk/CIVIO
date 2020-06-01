@@ -1,0 +1,12 @@
+id=586
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Criteria for COVID test?
+
+Dialogue
+Patient:
+Criteria for COVID test?
+Doctor:
+Real vs. textbook. Real-life criteria is different because we don't have enough tests, supplies, or medical staff around the world at this time (March 2020). Textbook criteria are  suspected COVID in hospitalized persons or in those with underlying medical conditions; or persons who got symptoms less than 14 days after (1) contact with a suspect or confirmed COVID patient or (2) travel through high-risk COVID area.
+

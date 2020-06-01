@@ -1,0 +1,12 @@
+id=505
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi! I’ve had a cold since 13 March.  I have since started coughing and just don’t seem to be recovering. One day I will be feeling fine and the next day back to feeling terrible. Lots of tight phlegm and very sore throat.  ?
+
+Dialogue
+Patient:
+Hi! I’ve had a cold since 13 March.  I have since started coughing and just don’t seem to be recovering. One day I will be feeling fine and the next day back to feeling terrible. Lots of tight phlegm and very sore throat.  ?
+Doctor:
+In brief:   Too soon to recover   On aveage, viral respiratory illnesses may take 2-3 weeks for full recovery and severe cases may take 4-6 weeks.  If your symptoms worsen, you should contact your health care provider to inquire regarding Corona virus testing or quarantine.  Would you like to video or text chat with me?         
+

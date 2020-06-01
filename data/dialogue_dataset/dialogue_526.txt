@@ -1,0 +1,12 @@
+id=525
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have MS should I get tested for Coronavirus? I have a soar throat for a week off and on
+
+Dialogue
+Patient:
+I have MS should I get tested for Coronavirus? I have a soar throat for a week off and on
+Doctor:
+Hi there . Hi there, if there’s any other symptom like fever, shortness of breath you should get tested and seek medical atention however you should call your local emergency line for COVID and stay away from hospitals, and follow OMS guidelines please .
+

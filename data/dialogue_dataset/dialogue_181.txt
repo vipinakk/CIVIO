@@ -1,0 +1,12 @@
+id=180
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have type 1 diabetes and to put it simply, I am living in an anxious state right now, worrying constantly about the coronavirus. My wife is a practice nurse in a GP surgery, and I worry constantly about the risk for us both. I am so scared.
+
+Dialogue
+Patient:
+I have type 1 diabetes and to put it simply, I am living in an anxious state right now, worrying constantly about the coronavirus. My wife is a practice nurse in a GP surgery, and I worry constantly about the risk for us both. I am so scared.
+Doctor:
+Take all precautions. Take all precautions possible to try to avoid catching Coronavirus. Wash your hands often with soap & water, avoid touching your eyes, nose & mouth, stay home as much as possible, cover your mouth & nose with tissue if you sneeze or cough, clean & disinfect  frequently touched surfaces often & if you have fever, cough and difficulty breathing seek medical care.
+

@@ -1,0 +1,12 @@
+id=321
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+About the ibuprofen and covid 19 should I quit taking it? It’s got me paranoid. The way the media’s been talking about it. I take it everyday for my neck pain and back pain. I can’t take pain pills because they make me nauseas. Any insight please
+
+Dialogue
+Patient:
+About the ibuprofen and covid 19 should I quit taking it? It’s got me paranoid. The way the media’s been talking about it. I take it everyday for my neck pain and back pain. I can’t take pain pills because they make me nauseas. Any insight please
+Doctor:
+Uncertain data. Hello.The data available about the coronavirus and ibuprofen are inconclusive.Nevertheless you should visit a pain specialist doctor for the manage of your pain. It's been established that Ibuprofen and other NSAID'S taken in large doses or long periods cause kidney damage.
+

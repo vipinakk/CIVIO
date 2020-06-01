@@ -1,0 +1,12 @@
+id=414
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can I see a Dr online for all my medication refills so I don't have to go into a Dr office? I need medicine refills
+
+Dialogue
+Patient:
+Can I see a Dr online for all my medication refills so I don't have to go into a Dr office? I need medicine refills
+Doctor:
+Maybe not all meds. COVID-19 pandemic at this time, so one's doctor may want to consult by video instead of requiring an in-person visit. Some medications are refillable by video, others are not. In this pandemic, one's primary care doctor, who knows the patient well, can usually get meds to the patient without an in-person visit... unless an exam is needed in order to adjust the meds. Just ask the doctor. (3/23/20)
+

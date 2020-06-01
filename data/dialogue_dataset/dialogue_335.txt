@@ -1,0 +1,12 @@
+id=334
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Are there specific animals or pets more likely to catch corona than others? Which animals should I be staying away from?
+
+Dialogue
+Patient:
+Are there specific animals or pets more likely to catch corona than others? Which animals should I be staying away from?
+Doctor:
+In brief:   Limited risk   From my reading the corona virus is limited in the animals it infests to varieties of bats and snakes.   I would not put your dog or cat on such a list.  Would you like to video or text chat with me?         
+

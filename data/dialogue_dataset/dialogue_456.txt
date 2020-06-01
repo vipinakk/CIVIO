@@ -1,0 +1,12 @@
+id=455
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi there. My 3 years old daughter had diarrhea for a couple of days and she has a fever without a cough now. Can it be COVID-19?
+
+Dialogue
+Patient:
+Hi there. My 3 years old daughter had diarrhea for a couple of days and she has a fever without a cough now. Can it be COVID-19?
+Doctor:
+It could. Only way to know is to test, self isolate :)
+

@@ -1,0 +1,12 @@
+id=468
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can the meat I eat give me coronavirus? Will cooking kill the coronavirus?
+
+Dialogue
+Patient:
+Can the meat I eat give me coronavirus? Will cooking kill the coronavirus?
+Doctor:
+Cooking will kill. Cooking adequately will kill the virus-30 sec of ,microwave.
+

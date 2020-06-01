@@ -1,0 +1,12 @@
+id=565
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have shortness of breath and are worried, I don’t have a cough or sore throat, so they will not test me, should I do a private test?
+
+Dialogue
+Patient:
+I have shortness of breath and are worried, I don’t have a cough or sore throat, so they will not test me, should I do a private test?
+Doctor:
+Shortness of breath. Covid testing is hard to come by. At 37 you are in a lower risk group.  And I doubt you could get a test. Keep isolated for two weeks. I know we have been ordering tests through HealthTap, but that does not lead to getting the test done, due to shortages. (3/21/20)
+

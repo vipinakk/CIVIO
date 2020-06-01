@@ -1,0 +1,12 @@
+id=475
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have tested positive for Covid 19 what medication must I take?
+
+Dialogue
+Patient:
+I have tested positive for Covid 19 what medication must I take?
+Doctor:
+Only if hospitalized. COVID-19 infection is worldwide, in all but some isolated areas. The goal is to keep people separated so that the clinics and hospitals are not overwhelmed. Patients can be presumed positive regardless of whether they got tested or not, as there's no way to test everyone. No good outpatient treatment found yet. Trials of various meds are done for hospitalized patients. (Mar. 2020)
+

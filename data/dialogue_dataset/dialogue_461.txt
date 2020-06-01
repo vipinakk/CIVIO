@@ -1,0 +1,12 @@
+id=460
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I know hospitals filter air with HEPA filters. Will the filters in my car or office building work just as well to prevent corona?
+
+Dialogue
+Patient:
+I know hospitals filter air with HEPA filters. Will the filters in my car or office building work just as well to prevent corona?
+Doctor:
+In brief:   No worries   COVID-19 does not survive outdoors.   Medical officials actually encourages getting outdoors, but keeping your distance from others.   Would you like to video or text chat with me?         
+

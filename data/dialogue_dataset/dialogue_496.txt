@@ -1,0 +1,12 @@
+id=495
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi. My son is 2 years old. Last week he fell ill for a day or two. He kept vomiting and had a day of diarree. However since last night he is couching constantly with plegm and runny nose, and loss of appetite. Do I need to test him for COVID-19?
+
+Dialogue
+Patient:
+Hi. My son is 2 years old. Last week he fell ill for a day or two. He kept vomiting and had a day of diarree. However since last night he is couching constantly with plegm and runny nose, and loss of appetite. Do I need to test him for COVID-19?
+Doctor:
+Maybe. Do video w/
+

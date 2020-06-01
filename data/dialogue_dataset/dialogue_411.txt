@@ -1,0 +1,12 @@
+id=410
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have had sore throat and shortness of breath, tight chest since last Monday. 8 days later and symptoms are not going away. No runny nose. I have been exposed to travelers. Should I go for covid test?
+
+Dialogue
+Patient:
+I have had sore throat and shortness of breath, tight chest since last Monday. 8 days later and symptoms are not going away. No runny nose. I have been exposed to travelers. Should I go for covid test?
+Doctor:
+Yes. yes.
+

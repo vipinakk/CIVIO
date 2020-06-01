@@ -1,0 +1,12 @@
+id=117
+https://www.healthcaremagic.com/questions/What-is-the-treatment-for-pneumonia-and-bronchitis/595314
+
+Description
+What is the treatment for pneumonia and bronchitis?
+
+Dialogue
+Patient:
+I have been sick for five weeks, I had pneumonia or bronchitis my doctor said.  Three weeks later I wasn't better so I went to doctor and had spatum test and she said I had significant ammounts of strep in my spatum.  I have chest pains and burning in my lungs, dizziness, caughing and a lot of mucus. I don't really understand what strep is and if this is serious
+Doctor:
+Step short form for Streptococcus pneumonia. It is a microorganism which causes pneumonia or infection. With antibiotics it should get treated. It can be serious if not treated.
+

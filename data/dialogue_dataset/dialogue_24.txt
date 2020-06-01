@@ -1,0 +1,14 @@
+id=23
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is mild intermittent asthma an elevated risk group for Covid 19 complications? If so, should I continue to use my inhalers when it's occasionally necessary or will the steroids in them put me at more risk? Thank you.
+
+Dialogue
+Patient:
+Is mild intermittent asthma an elevated risk group for Covid 19 complications? If so, should I continue to use my inhalers when it's occasionally necessary or will the steroids in them put me at more risk? Thank you.
+Doctor:
+In brief: Maybe
+Being over 50 with a medical condition like intermittent asthma makes you at higher risk for any respiratory illness including COVID19.
+It appears to be less an issue for children and youth.
+

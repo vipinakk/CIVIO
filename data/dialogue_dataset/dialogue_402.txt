@@ -1,0 +1,12 @@
+id=401
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a prolia injection appointment at the beginning of April. Will it be safer to postpone the appointment because of the COVID-19 situation? Prolia appointment
+
+Dialogue
+Patient:
+I have a prolia injection appointment at the beginning of April. Will it be safer to postpone the appointment because of the COVID-19 situation? Prolia appointment
+Doctor:
+Yes postpone . Yes. Definitely you can postpone the treatment by 2-4 weeks at least. .
+

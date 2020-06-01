@@ -1,0 +1,12 @@
+id=417
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a dry cough and sore throat. Should I be scared of contacting of Covid 19?
+
+Dialogue
+Patient:
+I have a dry cough and sore throat. Should I be scared of contacting of Covid 19?
+Doctor:
+No. Fear does not help us right now. This thing is coming. Angela Merkel said 70% of us will get it. Rather stay isolated and access your doctor via a telephonic consult and keep drinking fluids and also boost your immunity.
+

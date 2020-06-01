@@ -1,0 +1,14 @@
+id=28
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I travelled to Austria on 25 Jan 2020 and returned on 31Jan 2020. My trip included a stopover in Munich. I currently do not show any symptoms listed for coronavirus. Should i get lab tested as a precaution and will this test be covered by the medical?
+
+Dialogue
+Patient:
+I travelled to Austria on 25 Jan 2020 and returned on 31Jan 2020. My trip included a stopover in Munich. I currently do not show any symptoms listed for coronavirus. Should i get lab tested as a precaution and will this test be covered by the medical?
+Doctor:
+In brief: Hard to say
+The questions you pose are more appropriate to ask your local physicians and health plans.
+As a USA based site we have no access to or information about the changing local recommendations for world travel around the globe nor would we know what your plan covers. Find a local health contact & contact your health plan for guidance.
+

@@ -1,0 +1,12 @@
+id=529
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What symptoms should I look out for in the novel coronavirus pandemic?
+
+Dialogue
+Patient:
+What symptoms should I look out for in the novel coronavirus pandemic?
+Doctor:
+In brief:   Symptoms   The symptom of COVID-19 begins with mild flu-like symptoms such as fatigue, sore throat and sneeze, followed by fever, dry cough.   In severe cases, the cough can progress to productive cough, persistent and followed by shortness of breath. Some patients may also experience GI symptoms such as nausea vomiting and diarrhea.   Would you like to video or text chat with me?         
+

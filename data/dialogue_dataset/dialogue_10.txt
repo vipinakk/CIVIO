@@ -1,0 +1,12 @@
+id=10
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is vomiting and diarrhea a symptom of covid-19?
+
+Dialogue
+Patient:
+Is vomiting and diarrhea a symptom of covid-19?
+Doctor:
+COVID-19 symptoms. Nausea, vomiting, and/or diarrhea occur fairly frequently early in the infection, but are rarely if ever the only symptoms. If cough and fever don't develop within a day or two after vomiting or diarrhea, probably it isn't COVID-19.
+

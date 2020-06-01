@@ -1,0 +1,12 @@
+id=590
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+This may sound silly but I’m wondering, if touch something in store that has Coronavirus 19 on it and it gets on clothes should we go home wash them soon as possible then shower and new clothes on so it dont get on our stuff at home ?
+
+Dialogue
+Patient:
+This may sound silly but I’m wondering, if touch something in store that has Coronavirus 19 on it and it gets on clothes should we go home wash them soon as possible then shower and new clothes on so it dont get on our stuff at home ?
+Doctor:
+In brief:   Washing clothes.   Although so far it has not been shown to live on surfaces like clothes for as long as it lives on surfaces like plastic and metal, it is definitely good hygienic practice to wash your clothes in the hottest water the garment allows.  Would you like to video or text chat with me?        
+

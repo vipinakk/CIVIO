@@ -1,0 +1,12 @@
+id=585
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+If you have wolf Parkinson white syndrome does this make you more of a risk with Covid 19?
+
+Dialogue
+Patient:
+If you have wolf Parkinson white syndrome does this make you more of a risk with Covid 19?
+Doctor:
+Avoid cold/ice... Though untreated WPW Syndrome can be regarded as pre-existing chronic condition, there is no current evidence that one is more susceptible to Covid-19, an infectious disease mostly transmitted through Respiratory Fluid Droplets. Best to follow WHO/CDC guideline on hygiene. Plus avoid cold/ice  drinks/foods. Drink warm water/tea, even chicken soup. Aleve or ibuprofen can be helpful for fever/soreness.
+

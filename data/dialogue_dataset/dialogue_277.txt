@@ -1,0 +1,12 @@
+id=276
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hey there I have had cold "symptoms" for over a week and had a low grade fever last week. For the past two days I have been feeling dizzy. Should I contact my dr? See a dr?
+
+Dialogue
+Patient:
+Hey there I have had cold "symptoms" for over a week and had a low grade fever last week. For the past two days I have been feeling dizzy. Should I contact my dr? See a dr?
+Doctor:
+Dizziness. Yes. Please contact your doctor since they know you better. He may want to test you for the virus. There are other reasons you may be dizzy as well. .
+

@@ -1,0 +1,12 @@
+id=280
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I am experiencing neck strain, and I have had a weird/burning sensation in my chest. Sometimes it leads muscle tension. Been going on since Friday last week.
+
+Dialogue
+Patient:
+I am experiencing neck strain, and I have had a weird/burning sensation in my chest. Sometimes it leads muscle tension. Been going on since Friday last week.
+Doctor:
+Questions. Have you travelled, been in contact with a corona virus patient? Could very well be stress right now. WE are all really stressed and confused at this point in time. Be kind to yourself, breathe, do some exercise. :) We are here for you.
+

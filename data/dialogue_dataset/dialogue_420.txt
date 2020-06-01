@@ -1,0 +1,12 @@
+id=419
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a tight and painful chest with a dry cough, no fever and no headaches. Could it possibly be coronavirus?
+
+Dialogue
+Patient:
+I have a tight and painful chest with a dry cough, no fever and no headaches. Could it possibly be coronavirus?
+Doctor:
+Possible. Top symptoms include fever, dry cough and SOB. An obvious possibility.  If so, your best step is to self-quarntine. Remember at your age low risk of complication and typically will pass without issue. If worsening SOB be seen. Call your provider or check with local health department. These are Healthtap guidelines:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide.
+

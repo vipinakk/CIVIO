@@ -1,0 +1,12 @@
+id=120
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-pneumonia/617267
+
+Description
+Suggest treatment for pneumonia
+
+Dialogue
+Patient:
+My daughter had a fever since monday. Maximum temp is 39 & the loweest is 38.4C. She also has cough & colds. Doctos saif she has pneumonia and wants to give her antibiotic already. When i asked if its viral or bacterial, she said she doesn't know. How would you know if it is viral of bacterial? I'm hesitant in giving her antibiotics because last month she took 2 kinds of antibiotics already.
+Doctor:
+hi hope to satisfy youactually there is an viral infection there must be superimposed bacteria infection too.viral resolves with the passage of time on its own but to treat bacterial one we have to give antibiotics.for pneumonia you should give her azithromycin according to her weight 10 mg /kg wight once a day and for 5 days.plz mention the age n weight for next onwards.also give ibuprofen 10 mg /kg weight three times a day for 3 days n for nasal congestion give give arinac syrup twice a day for 7 days.hope she feels better soon.
+

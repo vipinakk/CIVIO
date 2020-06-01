@@ -1,0 +1,17 @@
+id=42
+https://www.healthcaremagic.com/questions/What-care-should-be-taken-for-pneumonia-in-a-child/1059262
+
+Description
+What care should be taken for pneumonia in a child?
+
+Dialogue
+Patient:
+My son has been diagnosed with pneumonia, and started a five day treatment today. He is 11 years old and very lean almost under weight. He hasn t been eating well this week and coughing is pristant as of today. I believe he should not go on the ice. He does play hard. can I get your opinion?
+Doctor:
+Hello,
+ As you explain the history for giving you a correct opinion I should see his chest X-ray and blood tests.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Jnikolla, Pulmonologist
+

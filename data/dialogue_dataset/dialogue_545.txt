@@ -1,0 +1,12 @@
+id=544
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have pain/discomfort in my lungs. I don't experience simultaneous on both lungs and it not always at the hame position. I don't have a head nor do I have high temperature. I sneeze and cough maybe once a day. Do I have corona, should I get tested?
+
+Dialogue
+Patient:
+I have pain/discomfort in my lungs. I don't experience simultaneous on both lungs and it not always at the hame position. I don't have a head nor do I have high temperature. I sneeze and cough maybe once a day. Do I have corona, should I get tested?
+Doctor:
+Exam needed. You are assuming that the discomfort is coming from both lungs, but pain of pleurisy or pneumonia wouldn't come and go In different sites. I doubt your symptoms are lung related, but fever, chills, sweats, worse cough, shortness of breath, wheezing, warrant testing.. If you've been exposed to someone with covid, or if you or someone you were exposed to  travelled to an affected region, get tested.
+

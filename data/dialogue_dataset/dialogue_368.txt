@@ -1,0 +1,12 @@
+id=367
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+3yrold having rash. Specially under armpits and his thighs too. He can’t sleep at night due to that. I’ve tried lotion to hydrate. He had minor eczema when born but not too serious what can I do? Don’t want to take him to hospital due to virus!
+
+Dialogue
+Patient:
+3yrold having rash. Specially under armpits and his thighs too. He can’t sleep at night due to that. I’ve tried lotion to hydrate. He had minor eczema when born but not too serious what can I do? Don’t want to take him to hospital due to virus!
+Doctor:
+Rash. How long has it been going on?  May be food allergies, most common are dairy products so you could try a week with  no dairy and see if there is a change, others allergens include eggs , wheat.   Could try Zyrtec children's 2 ml once a day and see if it helps itching. Rarely I have seen strep manifest with rash for which  you need a culture.  Speak to a pediatrician on HealthTap prime  or call MD.
+

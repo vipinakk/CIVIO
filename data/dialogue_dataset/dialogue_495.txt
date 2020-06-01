@@ -1,0 +1,12 @@
+id=494
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi There. I was at a festival over this past weekend and there has been a report of someone testing positive now. Is it a good idea to go for a test and/or self isolate ? Is national travel by car ok ?
+
+Dialogue
+Patient:
+Hi There. I was at a festival over this past weekend and there has been a report of someone testing positive now. Is it a good idea to go for a test and/or self isolate ? Is national travel by car ok ?
+Doctor:
+In brief:   Self-quarantine!    Enter self-quarantine then call your health care provider to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!  Would you like to video or text chat with me?         
+

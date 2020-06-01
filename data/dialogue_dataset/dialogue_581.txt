@@ -1,0 +1,12 @@
+id=580
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can I go for Coronavirus testing if my nose is blocked and I have traveled from a high risk country?
+
+Dialogue
+Patient:
+Can I go for Coronavirus testing if my nose is blocked and I have traveled from a high risk country?
+Doctor:
+Coronavirus testing. Yes, get tested if symptomatic (early symptoms could be mild respiratory symptoms and nonspecific) or self quarantine given your high risk of exposure. .
+

@@ -1,0 +1,12 @@
+id=208
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will getting either of the pneumonia vaccines, Prevnar and Pneumovax, prevent you from developing pneumonia if you catch the flu or covid?
+
+Dialogue
+Patient:
+Will getting either of the pneumonia vaccines, Prevnar and Pneumovax, prevent you from developing pneumonia if you catch the flu or covid?
+Doctor:
+No. The vaccines prevent bacterial pneumonia.  They have no effect on viral pneumonia.
+

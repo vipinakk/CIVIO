@@ -1,0 +1,12 @@
+id=338
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have chest congestion and I feel heavy when I breathe (not sure if I have a fever, don’t really have a cough but my throat is sore). I also know that someone in my office and my boyfriends office have been infected with COVID19. What should I Do?
+
+Dialogue
+Patient:
+I have chest congestion and I feel heavy when I breathe (not sure if I have a fever, don’t really have a cough but my throat is sore). I also know that someone in my office and my boyfriends office have been infected with COVID19. What should I Do?
+Doctor:
+In brief:   ? telephonic consult   If you are able, consult telephonically with your GP.   If not, do not go into public places, rather get symptomatic treatment - let someone who is well do this as swiftly as they can. Otherwise continue consulting on this forum. We can help you. If you have access to a test this is the ONLY way to know if you truely have it.   Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=224
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My 10 month old Baby Boy is scheduled to have his measles vaccination during the Lockdown. I want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. I dont want to risk exposing him unnecessarily.
+
+Dialogue
+Patient:
+My 10 month old Baby Boy is scheduled to have his measles vaccination during the Lockdown. I want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. I dont want to risk exposing him unnecessarily.
+Doctor:
+In brief:   Wait   My advice would be wait and don't risk exposure and spread right now.   Quarantine. Safe stay. We are here for you on this platform.  Would you like to video or text chat with me?         
+

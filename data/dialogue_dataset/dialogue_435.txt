@@ -1,0 +1,12 @@
+id=434
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Our office has been shutdown due one of my colleagues’s close relative being confirmed to have vivid-19. I am currently quarantined at home and would like to know if I can test for corona. ?
+
+Dialogue
+Patient:
+Our office has been shutdown due one of my colleagues’s close relative being confirmed to have vivid-19. I am currently quarantined at home and would like to know if I can test for corona. ?
+Doctor:
+In brief:   Not enough tests   Aside from really sick people and hospitalized patients, there aren't enough PCR viral tests in the US.   For now, we tell people that if they are healthy, just keep 6 feet from other people, and remember that high-touch objects have viruses. If people have any symptoms, even just sniffles, they isolate themselves, and call their doctors if having moderate or worsening symptoms. (3/23/20)  Would you like to video or text chat with me?         
+

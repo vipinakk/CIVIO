@@ -1,0 +1,16 @@
+id=39
+https://www.healthcaremagic.com/questions/What-care-can-be-taken-for-pneumonia-in-a-child/1144555
+
+Description
+What care can be taken for pneumonia in a child?
+
+Dialogue
+Patient:
+18 month old with chronic running nose And cough since August 2014 diagnosed with bacterial infections Took antibiotics did not get better. January 26th and chest x-ray found pneumonia. Took antibiotics did not get better with runny nose and coughing. 10 weeks later another chest x ray still found pneumonia. Has been taking clindamyacin For 11 days now does not seem to be getting better. And just now been prescribed proventil and Qvar. But if she is suffering from bacterial infection with those inhalers make it worse
+Doctor:
+Hello,
+ According to the history you prescribed he needs a chest CT to evaluate better the situation.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+

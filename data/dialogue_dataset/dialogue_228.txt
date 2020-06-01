@@ -1,0 +1,12 @@
+id=227
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+What can I use against coronavirus if I run out of hand sanitizer?
+
+Dialogue
+Patient:
+What can I use against coronavirus if I run out of hand sanitizer?
+Doctor:
+In brief:   Water and soap   It is best, providing available easily.   Trying not to touch shared places would also protect to some extent.  Would you like to video or text chat with me?         
+

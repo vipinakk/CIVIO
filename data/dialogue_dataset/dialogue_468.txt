@@ -1,0 +1,12 @@
+id=467
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is it safe to eat food prepared by someone with coronavirus? Even if they wear a mask and gloves?
+
+Dialogue
+Patient:
+Is it safe to eat food prepared by someone with coronavirus? Even if they wear a mask and gloves?
+Doctor:
+Better to skip. The protective gear is not protectve enough to prepare food.
+

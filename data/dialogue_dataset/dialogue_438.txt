@@ -1,0 +1,12 @@
+id=437
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Was in Cape Town 2020/03/12 - 2020/03/15 Close proximity to sevral overseas tourists 2020/03/20 throat sore and voice gone Back (upper middle area) and shoulders hurt Shivering, dry cough, headache and lethargic Should I go for Covid19 testing?
+
+Dialogue
+Patient:
+Was in Cape Town 2020/03/12 - 2020/03/15 Close proximity to sevral overseas tourists 2020/03/20 throat sore and voice gone Back (upper middle area) and shoulders hurt Shivering, dry cough, headache and lethargic Should I go for Covid19 testing?
+Doctor:
+In brief:   Yes   yes  Would you like to video or text chat with me?        
+

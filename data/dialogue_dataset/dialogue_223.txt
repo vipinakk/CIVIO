@@ -1,0 +1,12 @@
+id=222
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Is ritonavir  100mg and lopinavir400mg are safe drugs in COVID-19 and is improvement appear in patient??
+
+Dialogue
+Patient:
+Is ritonavir  100mg and lopinavir400mg are safe drugs in COVID-19 and is improvement appear in patient??
+Doctor:
+In brief:   No   There is not enough data to support it's use.   More clinical trials are needed  Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=195
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I was previously diagnosed with TB but have since recovered. I do want to know if my previous diagnosis puts me at a higher risk should I contract COVID 19.
+
+Dialogue
+Patient:
+I was previously diagnosed with TB but have since recovered. I do want to know if my previous diagnosis puts me at a higher risk should I contract COVID 19.
+Doctor:
+Covid and TB. Patients with a history of underlying lung disease do have a higher risk of morbidity and mortality with covid infection. It is important to self isolate and maintain social distancing as per the current protocols. Should you suspect covid infection get screened as early as possible.
+

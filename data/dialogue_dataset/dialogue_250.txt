@@ -1,0 +1,12 @@
+id=249
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My boyfriend suddenly lost his sense of smell. He had a sleep apnea test done 3 days ago, on a machine, plus one if his nostrils is stuffed up, due to a slight cold. Also when the test was done, his nostrils were clear. What caused this?
+
+Dialogue
+Patient:
+My boyfriend suddenly lost his sense of smell. He had a sleep apnea test done 3 days ago, on a machine, plus one if his nostrils is stuffed up, due to a slight cold. Also when the test was done, his nostrils were clear. What caused this?
+Doctor:
+COVID-19? You won't like to hear this, but loss of smell (anosmia) or taste often is the first symptom of COVID-19, the epidemic coronavirus infection. Nasal congestion also could go along with this. And you probably know that COVID-19 is currently a big problem in NYC. He should contact his doctor right away.
+

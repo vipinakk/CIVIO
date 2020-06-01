@@ -1,0 +1,12 @@
+id=555
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Why are so many people with diabetes dying from the coronavirus? It’s really frightening me.
+
+Dialogue
+Patient:
+Why are so many people with diabetes dying from the coronavirus? It’s really frightening me.
+Doctor:
+In brief:   Immunocompromised    body is busy dealing with diabetes, not as much resiliancy remaining to fight viral symptoms, and subsequent opportunistic infections  Would you like to video or text chat with me?         
+

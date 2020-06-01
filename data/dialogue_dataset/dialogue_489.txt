@@ -1,0 +1,12 @@
+id=488
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Sick for past week. Doctor prescribed meds. Not feeling better. Symptoms are shortness of breath, difficulty breathing, barking cough, mild headache, body ache. Should I consider getting tested for Covid 19.
+
+Dialogue
+Patient:
+Sick for past week. Doctor prescribed meds. Not feeling better. Symptoms are shortness of breath, difficulty breathing, barking cough, mild headache, body ache. Should I consider getting tested for Covid 19.
+Doctor:
+Yes. Everyone with flu like symptoms should be tested for Covid19. Test is becoming more widely available in the United States as the pandemic worsens.
+

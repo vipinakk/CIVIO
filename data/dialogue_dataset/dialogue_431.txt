@@ -1,0 +1,12 @@
+id=430
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi my husband has been puking since this morning, has serious vertigo + is off balance. Im suspecting food poisoning but want to be sure. I gave him a pill for nausea, which is working. Do I still take him to a doctor to check that its nothing else?
+
+Dialogue
+Patient:
+Hi my husband has been puking since this morning, has serious vertigo + is off balance. Im suspecting food poisoning but want to be sure. I gave him a pill for nausea, which is working. Do I still take him to a doctor to check that its nothing else?
+Doctor:
+In brief:   No    if food poisoning he will either recover or need a drip to replace fluids don't go into public spaces now, if food poisoning do what you can, if he needs a drip go to a non corona hospital try everything to stay home, rehydrat onto ice chips, maxalon over the counter  Would you like to video or text chat with me?         
+

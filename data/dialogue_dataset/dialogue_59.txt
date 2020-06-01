@@ -1,0 +1,16 @@
+id=58
+https://www.healthcaremagic.com/questions/What-does-recurring-chest-infection-asthma-and-pneumonia-mean/589111
+
+Description
+What does recurring chest infection, asthma and pneumonia mean?
+
+Dialogue
+Patient:
+Hello, I have had a chest infection about once a quarter for the last year and a half . I was diagnosed with asthma not long ago as well as having developed pneumonia for the first time in the past week. What could be causing such frequent illness? I have generally been a healthy person for all of my life. Sick maybe once every four years.
+Doctor:
+Hello and Welcome to ‘Ask A Doctor’ service. I have reviewed your query and here is my advice.
+ Recurrent chest infections in asthma patients can cause bronchitis. So better to consult pulmonologist and get done clinical examination of respiratory system and PFT (Pulmonary Function Test). PFT will not only diagnose bronchitis but it will also tell you about severity of the disease and treatment is based on severity only. You will mostly improve with inhaled bronchodilators (Formoterol or Salmeterol) and inhaled corticosteroid (ICS) (Budesonide or Fluticasone). Don't worry, you will be alright with all these. 
+ Hope I have solved your query. I will be happy to help you further. 
+ Wish you good health! 
+ Thanks.
+

@@ -1,0 +1,12 @@
+id=146
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-pneumonia/1515988
+
+Description
+Suggest treatment for pneumonia
+
+Dialogue
+Patient:
+Hi, my fiancé has got a case of pneumonia. She was admitted into Wellstar Douglas Hospital in Douglasville, Ga. last Tuesday. She was moved to ICU Saturday and they still can t seem to get it under control. I am very desperate and need a 2nd professional opinion.
+Doctor:
+Thanks for your question on Healthcare Magic. I can understand your concern. Best treatment of pneumonia is identification of causative pathogen and start appropriate antibiotics. So get done sputum culture and sensitivity report. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. So consult pulmonologist and discuss all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+

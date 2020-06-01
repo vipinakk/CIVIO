@@ -1,0 +1,12 @@
+id=363
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can the coronavirus leave lung scarring? I thought I heard something about it.
+
+Dialogue
+Patient:
+Can the coronavirus leave lung scarring? I thought I heard something about it.
+Doctor:
+In brief:   Yes    like most lung infections there will be changes in the lung structure, probably microscopically and may not be seen on X-rays,  Would you like to video or text chat with me?         
+

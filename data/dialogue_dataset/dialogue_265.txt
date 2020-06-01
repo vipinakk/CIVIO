@@ -1,0 +1,12 @@
+id=264
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can we use Disprin or Compral pils when we have Corona. They dont contain ibuprophen?
+
+Dialogue
+Patient:
+Can we use Disprin or Compral pils when we have Corona. They dont contain ibuprophen?
+Doctor:
+In brief:   Yes you can,depends.   Corona Virus treatment so far is symptomatic and supportive.    It really depends what you treat with Disprin/Compral.You are they do not have Ibuprofen.  Would you like to video or text chat with me?         
+

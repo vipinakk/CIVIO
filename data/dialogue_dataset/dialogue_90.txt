@@ -1,0 +1,17 @@
+id=89
+https://www.healthcaremagic.com/questions/Suggest-treatment-for-pneumonia/559483
+
+Description
+Suggest treatment for pneumonia
+
+Dialogue
+Patient:
+Hello,
+I am a student and dealing with a microbiology assignment.I am given a paitent sample.My paitent is 4 years old 
+-diagnosis Pneumonia
+- summary of peresent illness =Recurrant colds, ear infections,and bronchitis.She has been sick for past 3 weeks. Developed a fever yesterday.Also nausia and vomiting,muscle aches.
+Past Medical history= Cystic Fibrosis diagnosed at age 3.
+I did all the lab work and found out that the bacteria causes the disease is Psudomonas aeruginosa. What is the appropriate treatment? Please help.
+Doctor:
+HelloAs you explain cefuroxime or the group of kinolones are the right choice of treatmentRegardsDr.Jolanda
+

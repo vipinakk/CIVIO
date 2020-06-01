@@ -1,0 +1,12 @@
+id=250
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How do I know if I have corona virus?
+
+Dialogue
+Patient:
+How do I know if I have corona virus?
+Doctor:
+TO be sure, GET TESTED!
+

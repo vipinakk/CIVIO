@@ -1,0 +1,12 @@
+id=470
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Fake news running around?  Does Advil/Ibuprofen kickstart the COVID-19 into pneumonia?
+
+Dialogue
+Patient:
+Fake news running around?  Does Advil/Ibuprofen kickstart the COVID-19 into pneumonia?
+Doctor:
+In brief:   It could    There is not enough scientific info to confirm it.    Most of the online new was based on French report.It could be combination of speculations because virus enters lung through ACE2 receptor and also ibuprofens NASiD  and virus can effects the kidney. https://www.npr.org/sections/health-shots/2020/03/18/818026613/advice-from-france-to-avoid-ibuprofen-for-covid-19-leaves-experts-baffledThx  Would you like to video or text chat with me?         
+

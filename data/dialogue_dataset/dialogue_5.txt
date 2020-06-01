@@ -1,0 +1,18 @@
+id=5
+https://www.healthcaremagic.com/premiumquestions/Hi-I-am-Chaitanya-27-years-old-I-use-to/368590
+
+Description
+Does COVID-19 spreads through water? What precautions should I take to avoid infection?
+
+Dialogue
+Patient:
+Hi, I am Chaitanya, 27 years old. I use to swim daily in morning. Does COVID-19 spreads through water ? What precautions should I take to avoid infection?
+Doctor:
+Hello and welcome to Ask A Doctor service.
+I have reviewed your query and here is my advice.
+First few cases were suspected to have spread from food. However human to human spread is mainly from air droplets.
+I would suggest you to refrain from swimming for sometime. Although the virus will get killed in swimming pool if it doesnot find host for more than few minutes.
+Other precautions include to avoid social gatherings, wash hands frequently with soap and water, cover face with mask, stay home during sickness, avoid travel.
+Hope it helps. Let me know if I can assist you further.
+Dr Vaishalee
+

@@ -1,0 +1,12 @@
+id=238
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I would like to enquire is my symptoms are related to covid 19 before going to a testing centre.?
+
+Dialogue
+Patient:
+I would like to enquire is my symptoms are related to covid 19 before going to a testing centre.?
+Doctor:
+Shout . What are your symptoms? There are short supply of tests and only if you absolutely need a test at this stage. STay at home, disinfect everything especially any shopping coming from outside your home. Ask questions on this forum. STay at home right now.
+

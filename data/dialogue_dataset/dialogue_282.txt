@@ -1,0 +1,12 @@
+id=281
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Have recently been diagnosed with Fibromyalgia and a Mannose-binding lectin deficiency (low range). How likely am I to have a life threatening complications should I contract COVID19?
+
+Dialogue
+Patient:
+Have recently been diagnosed with Fibromyalgia and a Mannose-binding lectin deficiency (low range). How likely am I to have a life threatening complications should I contract COVID19?
+Doctor:
+Not stablished. All caution measures should be applied, including social distancing, sanitizer, and protection mask when crowded places are inevitable. Although MBL deficiency causes increased susceptibility to infections, mostly in people with chronic diseases, COVID-19 outbreak is so recent that a specific relationship with this disease has not been stablished. Anyway, have extreme caution and use protection.
+

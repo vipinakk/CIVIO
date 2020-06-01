@@ -1,0 +1,12 @@
+id=300
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Will I have to be hospitalised if I get the virus, I have type 1 diabetes.
+
+Dialogue
+Patient:
+Will I have to be hospitalised if I get the virus, I have type 1 diabetes.
+Doctor:
+In brief:   Maybe/not   They estimate as many as 80% of those testing positive in the under 40 age group have minor or no symptoms.   Having a non respiratory chronic illness does not increase your risk substantially.  Would you like to video or text chat with me?         
+

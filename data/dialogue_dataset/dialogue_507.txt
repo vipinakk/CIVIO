@@ -1,0 +1,12 @@
+id=506
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi Dr.  my whole body feels sore as well as my neck.  My brain feels loose in my head and have headaches?
+
+Dialogue
+Patient:
+Hi Dr.  my whole body feels sore as well as my neck.  My brain feels loose in my head and have headaches?
+Doctor:
+In brief:   Viral systemic infec   Sounds like it could be systemic infection, like Influenza or Corona viruses.  Please contact the NICD for screening to see if you have to get tested.Public Hotline:+27 800029999; +27 800111132; +27 82 883 9920.Only use Paracetamol for pain, if not allergic to it.  Would you like to video or text chat with me?         
+

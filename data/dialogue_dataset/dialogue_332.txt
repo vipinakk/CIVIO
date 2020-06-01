@@ -1,0 +1,12 @@
+id=331
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How do I book a virtual consultation with my doctor for Covid-19?
+
+Dialogue
+Patient:
+How do I book a virtual consultation with my doctor for Covid-19?
+Doctor:
+In brief:   Call your doctor   Call your doctor's office for instructions  Would you like to video or text chat with me?        
+

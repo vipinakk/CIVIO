@@ -1,0 +1,12 @@
+id=206
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I got my TDAP shot? Shots? When I was little, now that I am 18, should I get them again this year or when should I? (After this epidemic of course) Thank you and stay safe.
+
+Dialogue
+Patient:
+I got my TDAP shot? Shots? When I was little, now that I am 18, should I get them again this year or when should I? (After this epidemic of course) Thank you and stay safe.
+Doctor:
+Booster vaccinations. You should have had a booster at 12 years and that lasts for 10 years. If your last Tdap was at 6yrs then you are overdue. I agree with waiting for after the COVID pandemic unless you have an injury that would require tetanus immunity. Stay safe. .
+

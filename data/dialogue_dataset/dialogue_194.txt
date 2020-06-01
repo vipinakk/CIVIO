@@ -1,0 +1,12 @@
+id=193
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have a sore throat, a slight cough as well as slightly dry eyes. I may have been in contact with individuals with COVID-19 but unknowingly?
+
+Dialogue
+Patient:
+I have a sore throat, a slight cough as well as slightly dry eyes. I may have been in contact with individuals with COVID-19 but unknowingly?
+Doctor:
+More detail. Do you have a temperature ?Have you traveled internationally or locally?Do you have a fever ?It is seeming to be becoming necessary to be more vigilant about COVID-19.I suggest you make an appointment to see a Doctor.
+

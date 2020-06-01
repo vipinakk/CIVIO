@@ -1,0 +1,12 @@
+id=341
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I've been having the same symptoms as for Corona Virus. I've had them coming along slowly for 1 week now. I haven't had direct contact with someone who has travelled overseas but I'm worried I've had indirect contact. Should I get tested?
+
+Dialogue
+Patient:
+I've been having the same symptoms as for Corona Virus. I've had them coming along slowly for 1 week now. I haven't had direct contact with someone who has travelled overseas but I'm worried I've had indirect contact. Should I get tested?
+Doctor:
+In brief:   Corona virus   If you are symptomatic and not SOB you  should not need tested.   Testing in itself does not change the course and at this time and it does not lead to a specific beneficial action. If fever and SOB the testing guides inpatient therapy. Follow the following guidelines:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19; https://www.healthtap.com/blog/covid-19-care-guidelines  Would you like to video or text chat with me?         
+

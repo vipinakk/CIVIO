@@ -1,0 +1,12 @@
+id=302
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi, I have severe headache, a sore throat (feels like swollen sore, not raw sore but it doesnt hurt if I press my lymp nodes in neck except near my left ear), body hurts, coughing, body temp 32.5, head is hot. Light headed. Just normal flu?
+
+Dialogue
+Patient:
+Hi, I have severe headache, a sore throat (feels like swollen sore, not raw sore but it doesnt hurt if I press my lymp nodes in neck except near my left ear), body hurts, coughing, body temp 32.5, head is hot. Light headed. Just normal flu?
+Doctor:
+Flu. I think you a probably right. Body aches not as common with Covid.  If no significant SOB follow the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Talk to your provider Flu test may help, but management typically best conservative. Certainly if worseing SOB be seen. Remeber at 29 risk for severe infection is low either way. .
+

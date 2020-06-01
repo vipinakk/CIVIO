@@ -1,0 +1,12 @@
+id=487
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Nervous about coronavirus. I am 26 years old and have high blood pressure. I am curious chances of me dieing if I contract the virus.
+
+Dialogue
+Patient:
+Nervous about coronavirus. I am 26 years old and have high blood pressure. I am curious chances of me dieing if I contract the virus.
+Doctor:
+In brief:   Unknown but low   Based on current data it is low, likely less than 1-2%.   However just because you are young doesn’t mean you cannot end up really sick. Take care of yourself. Social distancing, wash you hands, etc  Would you like to video or text chat with me?         
+

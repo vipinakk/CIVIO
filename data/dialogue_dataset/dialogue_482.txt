@@ -1,0 +1,12 @@
+id=481
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Should one also cover eyes in addition to covering mouth and nose with mask to avoid exposure to Corona virus? Lots of people only use masks but that may not provide full protection, right?
+
+Dialogue
+Patient:
+Should one also cover eyes in addition to covering mouth and nose with mask to avoid exposure to Corona virus? Lots of people only use masks but that may not provide full protection, right?
+Doctor:
+Correct. Every bit helps.
+

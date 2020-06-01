@@ -1,0 +1,12 @@
+id=440
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi I have Hypothyroidism. I’ve been in chronic meds for over 5 years now. Am I at risk for Coronavirus. Also should I boost my immune system? Thanks
+
+Dialogue
+Patient:
+Hi I have Hypothyroidism. I’ve been in chronic meds for over 5 years now. Am I at risk for Coronavirus. Also should I boost my immune system? Thanks
+Doctor:
+In brief:   No   you are not more than the next person :) relax self isolate  Would you like to video or text chat with me?        
+

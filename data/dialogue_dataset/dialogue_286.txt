@@ -1,0 +1,12 @@
+id=285
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Good day My 2 year old Toddler has been coughing and now she started to vomit when coughing, is it something I should be consent about or it's just flue?
+
+Dialogue
+Patient:
+Good day My 2 year old Toddler has been coughing and now she started to vomit when coughing, is it something I should be consent about or it's just flue?
+Doctor:
+Not particularly . The muscles involved in coughing & vomiting are similar & young children often have difficulty not vomiting if they cough hard enough. I would concentrate of maintaining her fluid balance & see if she gradually improves. These are often simple viruses but need to be monitored closely.
+

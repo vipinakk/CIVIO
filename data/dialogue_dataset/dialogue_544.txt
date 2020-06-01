@@ -1,0 +1,12 @@
+id=543
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have all the symptoms except fever, I went to Medicross and Dr said I can get tested if I want to I'm not sure if I should. She gave me antibiotics Klacid XL 500mg, she said I can take it if I feel worse I'm worried it will make immune system bad?
+
+Dialogue
+Patient:
+I have all the symptoms except fever, I went to Medicross and Dr said I can get tested if I want to I'm not sure if I should. She gave me antibiotics Klacid XL 500mg, she said I can take it if I feel worse I'm worried it will make immune system bad?
+Doctor:
+In brief:   Antibiotic   I don't recommend antibiotics for a simple viral upper respiratory tract infection unless examination revealed signs of acute bronchitis or sinusitis.   They are not effective for viral infections like coVid 19 with no bacterial lung involvement either. If you've been exposed to someone with coVid 19 or or if you or someone you were exposed to travelled to a region where it was endemic, get tested  Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=566
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+How do you get HPV on the cervix? Is it from skin to skin contact during intercourse from a partner’s genital touching the cervix? Thank you
+
+Dialogue
+Patient:
+How do you get HPV on the cervix? Is it from skin to skin contact during intercourse from a partner’s genital touching the cervix? Thank you
+Doctor:
+In brief:   Basically the HPV virus is transferred within fluids generated during intercourse.   A mechanical skin contact appears to be part of the process but defining the exact amount of contact required is difficult. The genital strains of HPV are specific to those locations. There are other HPV strains that cause things like skin warts but these are different.  Would you like to video or text chat with me?         
+

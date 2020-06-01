@@ -1,0 +1,14 @@
+id=27
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Have read COVID-19 news quoting some experts as saying that we will see more confirmed cases as more tests are performed, but the mortality rate should drop as that happens. Any sign of that yet?
+
+Dialogue
+Patient:
+Have read COVID-19 news quoting some experts as saying that we will see more confirmed cases as more tests are performed, but the mortality rate should drop as that happens. Any sign of that yet?
+Doctor:
+In brief: COVID-19 mortality
+Don't confuse actual mortality rate with REPORTED rate.
+The actual rate probably will remain stable (and likely lower in the US than some other countries, because of sophisticated intensive medical care). But as testing expands and more people with mild symptoms (or no symptoms) are diagnosed, reported mortality will decline; likely happening now, but it may take weeks for data to be known.
+

@@ -1,0 +1,14 @@
+id=30
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Can taking extra vitamin C every day help prevent you from catching the coronavirus or the flu? If so, how much vitamin C is recommended?
+
+Dialogue
+Patient:
+Can taking extra vitamin C every day help prevent you from catching the coronavirus or the flu? If so, how much vitamin C is recommended?
+Doctor:
+In brief: Vitamin C
+While getting enough vitamin C in your diet is highly recommended, it has no special ability to prevent coronavirus or flu virus.
+Best preventative measures for these are frequent handwashing and avoiding people with sneezing/coughing/cold symptoms and fevers.
+

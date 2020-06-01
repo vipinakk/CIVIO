@@ -1,0 +1,12 @@
+id=243
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have been feeling very hot and having headaches everyday and always tired?
+
+Dialogue
+Patient:
+I have been feeling very hot and having headaches everyday and always tired?
+Doctor:
+Viral infection. Most likely a non-specific viral infection.Check your temperature.If persistently raised an symptoms don't clear in 7 days, consult your doctor.Most likely a non-specific viral infection.Only be concerned about COVID-19 if:You have been in contact with someone with a conformed diagnosis of COVID-19You have visited a high risk areaSymptoms worsen and include persistent fever and dry cough.
+

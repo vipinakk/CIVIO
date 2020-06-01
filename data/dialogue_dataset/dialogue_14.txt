@@ -1,0 +1,12 @@
+id=14
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Where can I be tested for covid 19?
+
+Dialogue
+Patient:
+Where can I be tested for covid 19?
+Doctor:
+your local doctor, local health department, we have no idea here what your set up is where you live.
+

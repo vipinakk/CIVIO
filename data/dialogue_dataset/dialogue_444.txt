@@ -1,0 +1,12 @@
+id=443
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi  I have a runny nose Difficulty breathing even with an asthma pump My head is pounding Body aches and chills ?
+
+Dialogue
+Patient:
+Hi  I have a runny nose Difficulty breathing even with an asthma pump My head is pounding Body aches and chills ?
+Doctor:
+In brief:   Symptoms   If you  are not having troubles breathing best to self-isolate.   Follow the following guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19Probably worthwhile to first isolate yourself: Guidelines as follow:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guideIf you are not having significant SOB COVID should be mild for you.   Would you like to video or text chat with me?         
+

@@ -1,0 +1,12 @@
+id=524
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+My daughter is displaying the below symptoms: - low grade fever - sore throat - headache - stomach pain - slight running nose Do I need to get her tested for Coronavirus? I am not aware of any contact with the virus.
+
+Dialogue
+Patient:
+My daughter is displaying the below symptoms: - low grade fever - sore throat - headache - stomach pain - slight running nose Do I need to get her tested for Coronavirus? I am not aware of any contact with the virus.
+Doctor:
+Upper Resp Inf. Dear Pretoria patient.You did not mention your daughter's age. It sounds like a viral upper airway infection( anti histamines, paracetamol, Ponstan will suffice for a day)If she gets worse, she can be checked by a doctor.If she was not in contact with a positive patient, no need for testing.Stay home,  lots of fluids, rest, meds and observe .Monitor her temp as well.RegardsDr Wil.
+

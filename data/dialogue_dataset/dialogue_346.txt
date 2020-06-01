@@ -1,0 +1,12 @@
+id=345
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I also have a dry throat sometimes its feels like there is something stuck or putting pressure on my throat?
+
+Dialogue
+Patient:
+I also have a dry throat sometimes its feels like there is something stuck or putting pressure on my throat?
+Doctor:
+Need more info. Have you travelled or come into contact with a corona virus patient ?
+

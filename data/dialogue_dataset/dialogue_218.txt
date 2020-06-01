@@ -1,0 +1,12 @@
+id=217
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+Hi Dr. If all I have is a dry cough, should I get tested for covid 19? No recent travel or contact with high risk individuals. I have been given permission to visit a relative in ICU during the lockdown, but don't want to make him sick.
+
+Dialogue
+Patient:
+Hi Dr. If all I have is a dry cough, should I get tested for covid 19? No recent travel or contact with high risk individuals. I have been given permission to visit a relative in ICU during the lockdown, but don't want to make him sick.
+Doctor:
+Sounds risky. Using symptoms of fever, cough, or runny nose to screen for COVID-19 is not accurate because colds and flu have such symptoms. COVID testing is by nasal swab, but there's a shortage of test kits in this pandemic. Only local resources know local testing sites, times, restrictions. Even a negative test does not guarantee one does not have COVID-19. Safest for people to stay away from ICU patients.
+

@@ -1,0 +1,14 @@
+id=18
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+True or false? Anyone infected with COVID-19 start have diarrhea and increases the chances of death compared to person who just start respiratory symptoms, why?
+
+Dialogue
+Patient:
+True or false? Anyone infected with COVID-19 start have diarrhea and increases the chances of death compared to person who just start respiratory symptoms, why?
+Doctor:
+In brief: Data
+From Data from China there has been association between worse infection and diarrhea.
+The seems to be a worse inflammatory response associated with people who have diarrhea.
+

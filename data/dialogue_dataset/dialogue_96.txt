@@ -1,0 +1,12 @@
+id=95
+https://www.healthcaremagic.com/questions/Is-constant-chest-infection-and-coughing-sign-of-pneumonia/545352
+
+Description
+Is constant chest infection and coughing sign of pneumonia?
+
+Dialogue
+Patient:
+I have had constant chest inf was hospitalised for 4 days said they think phnewmonia out now still on lots of anti biotics and steroids however I'm still sweating have right lower back pain and still really coughing and short of breath. I am MBL deficency and alpha 1
+Doctor:
+HelloYes according to the history it might be pneumonia.Continue the current treatment.RegardsDr.Jolanda
+

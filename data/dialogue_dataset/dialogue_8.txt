@@ -1,0 +1,12 @@
+id=8
+https://www.healthtap.com/member/fg?page=/search/covid
+
+Description
+I have covid 19 symptoms?
+
+Dialogue
+Patient:
+I have covid 19 symptoms?
+Doctor:
+Without any details it's impossible to say.
+
