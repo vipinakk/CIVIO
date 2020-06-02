@@ -93,6 +93,7 @@ for filename in os.listdir(path):
                             text_annotated = ''
                             word = ''
                             i=0
+                            count=0
                             while i < len(text_to_annotate):
                                 flag = False
                                 for s in sorted_spans_matched:
@@ -101,7 +102,11 @@ for filename in os.listdir(path):
                                         flag = True
                                         break
                                 if flag is True:
-                                    out_file.write('<mark><b>%s</b></mark>' %word)
+                                    count +=1
+                                    if count%2 == 0:
+                                        out_file.write('<span style="background-color:#00FF00"><b>%s</b></span>' % word)
+                                    else:
+                                        out_file.write('<span style="background-color:yellow"><b>%s</b></span>' % word)
                                     i = i+len(word)
                                 else:
                                     out_file.write('%s' %text_to_annotate[i])
