@@ -91,17 +91,21 @@ for filename in os.listdir(path):
                             end_spans = [e-1 for (b,e) in sorted_spans]
                                 
                             text_annotated = ''
-
-                            for i in range(len(text_to_annotate)):
+                            word = ''
+                            i=0
+                            while i < len(text_to_annotate)):
                                 flag = False
                                 for s in sorted_spans_matched:
+                                    word = text_to_annotate[s[0]:s[1]+1]
                                     if s[0] <= i <= s[1]:
                                         flag = True
                                         break
                                 if flag == True:
-                                    out_file.write('<b>%s</b>' %text_to_annotate[i])
+                                    out_file.write('<mark><b>%s</b></mark>' %text_to_annotate[i])
+                                    i = i+len(word)
                                 else:
                                     out_file.write('%s' %text_to_annotate[i])
+                                    i += 1
 
                             out_file.write('<br>')
                         except:
