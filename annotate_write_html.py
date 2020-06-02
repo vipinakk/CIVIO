@@ -100,7 +100,7 @@ for filename in os.listdir(path):
                                     if s[0] <= i <= s[1]:
                                         flag = True
                                         break
-                                if flag == True:
+                                if flag is True:
                                     out_file.write('<mark><b>%s</b></mark>' %text_to_annotate[i])
                                     i = i+len(word)
                                 else:
