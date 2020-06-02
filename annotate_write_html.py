@@ -93,7 +93,7 @@ for filename in os.listdir(path):
                             text_annotated = ''
                             word = ''
                             i=0
-                            while i < len(text_to_annotate)):
+                            while i < len(text_to_annotate):
                                 flag = False
                                 for s in sorted_spans_matched:
                                     word = text_to_annotate[s[0]:s[1]+1]
