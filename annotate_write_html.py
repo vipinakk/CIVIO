@@ -82,7 +82,17 @@ for filename in os.listdir(path):
                                             if k2 in valid_high:
                                                 del valid_high[k2]
 
-                            #print(valid_high)
+                            # Remove partial overlap between concepts by keeping only the longest string
+                            valid_high_copy = copy.deepcopy(valid_high)
+
+                            for k1 in valid_high_copy:
+                                for k2 in valid_high_copy:
+                                    if k1 != k2:
+                                        if k1[0] < k2[0] <k1[1]:
+                                            if len(valid_high_copy[k1]) <= len(valid_high_copy[k2]):
+                                                del valid_high[k1]
+                                            else:
+                                                del valid_high[k2]
 
                             sorted_spans = sorted(valid_high)
                             sorted_spans_matched = [(i[0]-1, i[1]-1) for i in sorted_spans]
