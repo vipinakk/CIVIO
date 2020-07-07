@@ -68,7 +68,7 @@ for filename in os.listdir(path):
 
                         text_to_annotate = line
                         try:
-                            annotations = get_json(REST_URL + "/annotator?ontologies=CIVIO_1&longest_only=true&text=" + urllib.parse.quote(text_to_annotate))
+                            annotations = get_json(REST_URL + "/annotator?ontologies=CIDIO_AUX&longest_only=true&text=" + urllib.parse.quote(text_to_annotate))
                                 
                             print_annotations(annotations)
                             #print(highlighter)
@@ -86,11 +86,8 @@ for filename in os.listdir(path):
 
                             sorted_spans = sorted(valid_high)
                             sorted_spans_matched = [(i[0]-1, i[1]-1) for i in sorted_spans]
-                            print(sorted_spans)
-                            begin_spans = [b-1 for (b,e) in sorted_spans]
-                            end_spans = [e-1 for (b,e) in sorted_spans]
+
                                 
-                            text_annotated = ''
                             word = ''
                             i=0
                             count=0
@@ -106,7 +103,7 @@ for filename in os.listdir(path):
                                     if count%2 == 0:
                                         out_file.write('<span style="background-color:#00FF00"><b>%s</b></span>' % word)
                                     else:
-                                        out_file.write('<span style="background-color:yellow"><b>%s</b></span>' % word)
+                                        out_file.write('<span style="background-color:#FF1493"><b>%s</b></span>' % word)
                                     i = i+len(word)
                                 else:
                                     out_file.write('%s' %text_to_annotate[i])
